@@ -1,0 +1,225 @@
+{
+  "categoria": "O TEMPO E O ESPAÇO NA CONSTRUÇÃO SOCIAL DA REALIDADE",
+  "perguntas": [
+    {
+      "curiosidade": "O tempo social não é igual ao tempo cronológico.",
+      "pergunta": "O que é tempo social?",
+      "opcoes": [
+        "A forma como as sociedades organizam e percebem o tempo",
+        "A medição científica do tempo",
+        "O tempo biológico dos seres vivos"
+      ],
+      "correta": 0,
+      "explicacao": "O tempo social é construído culturalmente e varia entre sociedades. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O espaço social é moldado pelas relações humanas.",
+      "pergunta": "O que é espaço social?",
+      "opcoes": [
+        "Um local físico sem significado",
+        "A organização dos lugares segundo relações sociais",
+        "Apenas o território de um país"
+      ],
+      "correta": 1,
+      "explicacao": "O espaço social resulta da ação humana e das relações sociais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O território envolve poder e controlo.",
+      "pergunta": "O que é território?",
+      "opcoes": [
+        "Um espaço controlado por um grupo ou Estado",
+        "Apenas uma área geográfica",
+        "Um espaço natural sem intervenção humana"
+      ],
+      "correta": 0,
+      "explicacao": "Território implica controlo político, social ou simbólico. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A mobilidade espacial é uma característica das sociedades modernas.",
+      "pergunta": "O que é mobilidade espacial?",
+      "opcoes": [
+        "Mudança de posição social",
+        "Deslocação de indivíduos no espaço",
+        "Mudança de profissão"
+      ],
+      "correta": 1,
+      "explicacao": "Mobilidade espacial refere-se a deslocações geográficas. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A migração é um fenómeno global.",
+      "pergunta": "O que é migração?",
+      "opcoes": [
+        "Deslocação de pessoas entre territórios",
+        "Mudança de hábitos culturais",
+        "Mudança de profissão"
+      ],
+      "correta": 0,
+      "explicacao": "Migração envolve deslocação permanente ou temporária. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A urbanização intensificou-se com a industrialização.",
+      "pergunta": "O que é urbanização?",
+      "opcoes": [
+        "Crescimento das cidades",
+        "Expansão das zonas rurais",
+        "Desaparecimento dos centros urbanos"
+      ],
+      "correta": 0,
+      "explicacao": "Urbanização é o aumento da população urbana. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A ruralidade caracteriza espaços de baixa densidade populacional.",
+      "pergunta": "O que é ruralidade?",
+      "opcoes": [
+        "Conjunto de características das zonas rurais",
+        "Expansão das cidades",
+        "Apenas agricultura"
+      ],
+      "correta": 0,
+      "explicacao": "Ruralidade envolve modos de vida e organização próprios. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A densidade populacional varia muito entre regiões.",
+      "pergunta": "O que é densidade populacional?",
+      "opcoes": [
+        "Número de habitantes por área",
+        "Número de empregos disponíveis",
+        "Quantidade de recursos naturais"
+      ],
+      "correta": 0,
+      "explicacao": "É uma medida demográfica fundamental. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A metropolização cria grandes centros urbanos.",
+      "pergunta": "O que é metropolização?",
+      "opcoes": [
+        "Crescimento e concentração urbana",
+        "Expansão rural",
+        "Desindustrialização"
+      ],
+      "correta": 0,
+      "explicacao": "Metropolização envolve grandes cidades e áreas metropolitanas. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A segregação espacial reflete desigualdades sociais.",
+      "pergunta": "O que é segregação espacial?",
+      "opcoes": [
+        "Separação de grupos sociais no espaço",
+        "Mistura total de populações",
+        "Apenas divisão administrativa"
+      ],
+      "correta": 0,
+      "explicacao": "Segregação pode ser económica, étnica ou cultural. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A gentrificação altera bairros urbanos.",
+      "pergunta": "O que é gentrificação?",
+      "opcoes": [
+        "Transformação urbana que expulsa populações vulneráveis",
+        "Construção de zonas industriais",
+        "Expansão rural"
+      ],
+      "correta": 0,
+      "explicacao": "A gentrificação aumenta preços e altera a composição social. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O espaço público é acessível a todos.",
+      "pergunta": "O que é espaço público?",
+      "opcoes": [
+        "Local acessível a todos",
+        "Local privado",
+        "Apenas espaços comerciais"
+      ],
+      "correta": 0,
+      "explicacao": "Praças, ruas e parques são exemplos de espaço público. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O espaço privado tem acesso restrito.",
+      "pergunta": "O que é espaço privado?",
+      "opcoes": [
+        "Local de acesso restrito",
+        "Local aberto a todos",
+        "Apenas espaços naturais"
+      ],
+      "correta": 0,
+      "explicacao": "Casas, empresas e propriedades privadas são exemplos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O tempo histórico é interpretado pelos historiadores.",
+      "pergunta": "O que é tempo histórico?",
+      "opcoes": [
+        "Interpretação do tempo pelos historiadores",
+        "Tempo medido por relógios",
+        "Tempo biológico"
+      ],
+      "correta": 0,
+      "explicacao": "O tempo histórico é construído a partir de acontecimentos significativos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A cronologia organiza acontecimentos no tempo.",
+      "pergunta": "O que é cronologia?",
+      "opcoes": [
+        "Sequência temporal de acontecimentos",
+        "Estudo de mapas",
+        "Medida do tempo físico"
+      ],
+      "correta": 0,
+      "explicacao": "Cronologia organiza eventos em ordem temporal. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A simultaneidade ocorre quando eventos acontecem ao mesmo tempo.",
+      "pergunta": "O que é simultaneidade?",
+      "opcoes": [
+        "Acontecimentos que ocorrem ao mesmo tempo",
+        "Acontecimentos que ocorrem em sequência",
+        "Apenas eventos históricos"
+      ],
+      "correta": 0,
+      "explicacao": "Simultaneidade é fundamental para compreender relações históricas. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A sucessão temporal organiza eventos em sequência.",
+      "pergunta": "O que é sucessão temporal?",
+      "opcoes": [
+        "Ordem dos acontecimentos no tempo",
+        "Eventos simultâneos",
+        "Eventos sem relação"
+      ],
+      "correta": 0,
+      "explicacao": "Sucessão temporal ajuda a compreender causas e consequências. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O espaço é sempre socialmente construído.",
+      "pergunta": "Por que o espaço é considerado uma construção social?",
+      "opcoes": [
+        "Porque ganha significado através das práticas humanas",
+        "Porque existe naturalmente",
+        "Porque é apenas físico"
+      ],
+      "correta": 0,
+      "explicacao": "O espaço adquire sentido através das relações sociais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O tempo e o espaço influenciam identidades.",
+      "pergunta": "Como o tempo e o espaço influenciam a identidade?",
+      "opcoes": [
+        "Através das experiências vividas em contextos específicos",
+        "Apenas pela genética",
+        "Não influenciam"
+      ],
+      "correta": 0,
+      "explicacao": "Identidades são moldadas por contextos históricos e espaciais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A mobilidade pendular é comum nas cidades.",
+      "pergunta": "O que é mobilidade pendular?",
+      "opcoes": [
+        "Deslocação diária entre casa e trabalho",
+        "Mudança permanente de país",
+        "Viagens de lazer"
+      ],
+      "correta": 0,
+      "explicacao": "É típica de áreas metropolitanas e grandes cidades. (Fonte: IADE)"
+    }
+  ]
+}

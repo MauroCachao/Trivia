@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Resultados{% endblock %}
+{% block content %}
+
+<div class="card fade-in" style="max-width:800px; text-align:center;">
+
+    <h1>Resultados Finais</h1>
+
+    {% for j in jogadores %}
+    <div class="resultado-jogador">
+
+        <img src="{{ url_for('static', filename='avatars/' ~ j.avatar) }}" class="avatar-big">
+        <h2>{{ j.nome }}</h2>
+
+        <p>Pontos: <b>{{ j.score }}</b></p>
+
+        <!-- QUEIJOS -->
+        <div style="margin-top:10px;">
+            {% for q in j.queijos %}
+                <span class="queijo-mini" style="background: {{ cores_queijo[q] }}"></span>
+            {% endfor %}
+        </div>
+
+        <hr>
+    </div>
+    {% endfor %}
+
+    <a href="/" class="btn pulse">Novo Jogo</a>
+
+</div>
+
+{% endblock %}

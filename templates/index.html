@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}Início{% endblock %}
+{% block content %}
+
+<!-- Fundo -->
+<div class="bg-img" style="background-image: url('{{ url_for('static', filename='img/bg_inicio.jpg') }}');"></div>
+
+<div class="card fade-in">
+
+    <h1 class="title" style="text-align:center;">Trivia Sociologia</h1>
+    <p style="text-align:center; font-size:18px;">
+        Bem-vindo ao jogo! Escolhe quantos jogadores vão participar.
+    </p>
+
+    <form method="POST" style="text-align:center; margin-top:20px;">
+
+        <label for="num_jogadores" style="font-size:20px; font-weight:bold;">
+            Número de jogadores:
+        </label>
+
+        <select name="num_jogadores" id="num_jogadores" required
+                style="padding:10px; font-size:18px; border-radius:10px; margin-left:10px;">
+            <option value="1">1 Jogador</option>
+            <option value="2">2 Jogadores</option>
+            <option value="3">3 Jogadores</option>
+            <option value="4">4 Jogadores</option>
+            <option value="5">5 Jogadores</option>
+            <option value="6">6 Jogadores</option>
+        </select>
+
+        <br><br>
+
+        <button type="submit" class="btn pulse" style="font-size:20px;">
+            Começar
+        </button>
+    </form>
+
+</div>
+
+<style>
+#num_jogadores {
+    cursor: pointer;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: bold;
+}
+</style>
+
+{% endblock %}

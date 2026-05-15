@@ -1,0 +1,225 @@
+{
+  "categoria": "SOCIEDADE E CULTURA",
+  "perguntas": [
+    {
+      "curiosidade": "Cultura inclui crenças, hábitos, valores, símbolos e práticas sociais.",
+      "pergunta": "O que é cultura?",
+      "opcoes": [
+        "Conjunto de crenças, hábitos e valores",
+        "Apenas arte",
+        "Apenas tecnologia"
+      ],
+      "correta": 0,
+      "explicacao": "A Antropologia Cultural estuda crenças, hábitos, ritos e tradições. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A sociedade é formada por indivíduos que interagem segundo normas e instituições.",
+      "pergunta": "O que caracteriza uma sociedade?",
+      "opcoes": [
+        "Um conjunto de indivíduos que vivem isolados",
+        "Um grupo de indivíduos que partilham normas e instituições",
+        "Apenas pessoas com a mesma profissão"
+      ],
+      "correta": 1,
+      "explicacao": "Sociedade implica interação organizada e normas comuns. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Os valores culturais orientam comportamentos e decisões.",
+      "pergunta": "O que são valores culturais?",
+      "opcoes": [
+        "Objetos materiais de uma cultura",
+        "Ideias que orientam comportamentos",
+        "Regras jurídicas"
+      ],
+      "correta": 1,
+      "explicacao": "Valores são princípios que orientam ações e julgamentos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Normas sociais regulam comportamentos esperados num grupo.",
+      "pergunta": "O que são normas sociais?",
+      "opcoes": [
+        "Leis escritas pelo governo",
+        "Regras de comportamento aceites socialmente",
+        "Apenas tradições religiosas"
+      ],
+      "correta": 1,
+      "explicacao": "Normas sociais são regras informais que orientam comportamentos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Os símbolos culturais transmitem significados partilhados.",
+      "pergunta": "O que é um símbolo cultural?",
+      "opcoes": [
+        "Um objeto sem significado",
+        "Algo que representa ideias partilhadas",
+        "Apenas uma imagem religiosa"
+      ],
+      "correta": 1,
+      "explicacao": "Símbolos comunicam significados dentro de uma cultura. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A socialização é essencial para integrar o indivíduo na sociedade.",
+      "pergunta": "O que é socialização?",
+      "opcoes": [
+        "Processo de aprendizagem de normas e valores",
+        "Ato de fazer amigos",
+        "Apenas educação escolar"
+      ],
+      "correta": 0,
+      "explicacao": "Socialização é o processo pelo qual o indivíduo aprende a viver em sociedade. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A cultura material inclui objetos físicos criados por uma sociedade.",
+      "pergunta": "O que é cultura material?",
+      "opcoes": [
+        "Ideias e valores",
+        "Objetos e artefactos produzidos",
+        "Apenas tradições orais"
+      ],
+      "correta": 1,
+      "explicacao": "Cultura material refere-se a objetos físicos criados por um grupo. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A cultura imaterial inclui crenças, valores e tradições.",
+      "pergunta": "O que é cultura imaterial?",
+      "opcoes": [
+        "Objetos físicos",
+        "Ideias, crenças e tradições",
+        "Tecnologia"
+      ],
+      "correta": 1,
+      "explicacao": "Cultura imaterial refere-se a elementos simbólicos e não físicos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O etnocentrismo leva a julgar outras culturas pela própria.",
+      "pergunta": "O que é etnocentrismo?",
+      "opcoes": [
+        "Valorização da diversidade cultural",
+        "Julgamento de outras culturas com base na própria",
+        "Estudo científico da cultura"
+      ],
+      "correta": 1,
+      "explicacao": "Etnocentrismo é interpretar outra cultura segundo padrões próprios. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O relativismo cultural defende compreender cada cultura no seu contexto.",
+      "pergunta": "O que é relativismo cultural?",
+      "opcoes": [
+        "Comparar culturas para ver qual é superior",
+        "Compreender práticas culturais no seu contexto",
+        "Rejeitar todas as tradições"
+      ],
+      "correta": 1,
+      "explicacao": "Relativismo cultural evita julgamentos externos e procura compreender. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "As instituições sociais organizam a vida coletiva.",
+      "pergunta": "O que são instituições sociais?",
+      "opcoes": [
+        "Empresas privadas",
+        "Estruturas que regulam comportamentos sociais",
+        "Apenas escolas"
+      ],
+      "correta": 1,
+      "explicacao": "Instituições incluem família, escola, Estado, religião. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A identidade cultural liga o indivíduo ao seu grupo.",
+      "pergunta": "O que é identidade cultural?",
+      "opcoes": [
+        "Apenas nacionalidade",
+        "Sentido de pertença baseado em cultura partilhada",
+        "Profissão de uma pessoa"
+      ],
+      "correta": 1,
+      "explicacao": "Identidade cultural resulta de valores, tradições e símbolos partilhados. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A aculturação ocorre quando culturas entram em contacto prolongado.",
+      "pergunta": "O que é aculturação?",
+      "opcoes": [
+        "Perda total da cultura",
+        "Processo de troca cultural entre grupos",
+        "Isolamento cultural"
+      ],
+      "correta": 1,
+      "explicacao": "Aculturação envolve influência mútua entre culturas. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A globalização intensifica contactos culturais.",
+      "pergunta": "A globalização cultural refere-se a:",
+      "opcoes": [
+        "Isolamento entre países",
+        "Maior circulação de ideias e práticas culturais",
+        "Fim das tradições locais"
+      ],
+      "correta": 1,
+      "explicacao": "Globalização aumenta interconexões culturais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A cultura popular é amplamente difundida pelos media.",
+      "pergunta": "O que é cultura popular?",
+      "opcoes": [
+        "Cultura exclusiva das elites",
+        "Cultura difundida em massa",
+        "Cultura apenas tradicional"
+      ],
+      "correta": 1,
+      "explicacao": "Cultura popular é consumida por grandes públicos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A cultura erudita envolve produção intelectual especializada.",
+      "pergunta": "O que caracteriza a cultura erudita?",
+      "opcoes": [
+        "Produção cultural de massas",
+        "Produção intelectual especializada",
+        "Apenas tradições orais"
+      ],
+      "correta": 1,
+      "explicacao": "Cultura erudita inclui literatura, ciência, artes clássicas. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Os ritos sociais marcam momentos importantes da vida.",
+      "pergunta": "O que são ritos sociais?",
+      "opcoes": [
+        "Atividades sem significado",
+        "Práticas simbólicas que marcam transições",
+        "Apenas festas religiosas"
+      ],
+      "correta": 1,
+      "explicacao": "Ritos marcam nascimento, casamento, morte, etc. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A linguagem é um elemento central da cultura.",
+      "pergunta": "Qual o papel da linguagem na cultura?",
+      "opcoes": [
+        "Não tem relação com cultura",
+        "É um meio de transmitir significados culturais",
+        "Serve apenas para comunicação técnica"
+      ],
+      "correta": 1,
+      "explicacao": "A linguagem transmite valores, símbolos e tradições. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A diversidade cultural é reconhecida como património da humanidade.",
+      "pergunta": "O que é diversidade cultural?",
+      "opcoes": [
+        "Existência de uma única cultura dominante",
+        "Coexistência de várias culturas",
+        "Fim das tradições locais"
+      ],
+      "correta": 1,
+      "explicacao": "Diversidade cultural refere-se à variedade de expressões culturais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A cultura influencia a forma como percebemos o mundo.",
+      "pergunta": "Como a cultura molda a perceção?",
+      "opcoes": [
+        "Não influencia perceções",
+        "Define significados e interpretações da realidade",
+        "Apenas afeta tradições"
+      ],
+      "correta": 1,
+      "explicacao": "A cultura molda a forma como interpretamos o mundo. (Fonte: IADE)"
+    }
+  ]
+}

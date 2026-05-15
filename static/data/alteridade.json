@@ -1,0 +1,225 @@
+{
+  "categoria": "A ALTERIDADE DOS INDIVÍDUOS E DAS ORGANIZAÇÕES MODERNAS",
+  "perguntas": [
+    {
+      "curiosidade": "Alteridade significa reconhecer o outro como diferente.",
+      "pergunta": "O que é alteridade?",
+      "opcoes": [
+        "Reconhecimento do outro como diferente",
+        "Imposição da própria cultura",
+        "Eliminação das diferenças"
+      ],
+      "correta": 0,
+      "explicacao": "Alteridade implica compreender e respeitar a diferença. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A identidade é construída socialmente.",
+      "pergunta": "O que é identidade?",
+      "opcoes": [
+        "Conjunto de características que definem um indivíduo",
+        "Apenas o nome próprio",
+        "Apenas a nacionalidade"
+      ],
+      "correta": 0,
+      "explicacao": "Identidade envolve valores, crenças e pertenças sociais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O preconceito é um julgamento prévio e infundado.",
+      "pergunta": "O que é preconceito?",
+      "opcoes": [
+        "Julgamento negativo sem fundamento",
+        "Opinião baseada em factos",
+        "Apenas uma crítica"
+      ],
+      "correta": 0,
+      "explicacao": "Preconceito é uma atitude negativa baseada em estereótipos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A discriminação é a prática que resulta do preconceito.",
+      "pergunta": "O que é discriminação?",
+      "opcoes": [
+        "Tratamento desigual baseado em preconceito",
+        "Discussão entre pessoas",
+        "Diferença de opinião"
+      ],
+      "correta": 0,
+      "explicacao": "Discriminação é ação que exclui ou prejudica grupos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Os estereótipos simplificam grupos sociais.",
+      "pergunta": "O que é um estereótipo?",
+      "opcoes": [
+        "Generalização simplificada sobre um grupo",
+        "Opinião individual neutra",
+        "Uma lei social"
+      ],
+      "correta": 0,
+      "explicacao": "Estereótipos reduzem grupos a características simplistas. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A diversidade é uma característica das sociedades modernas.",
+      "pergunta": "O que é diversidade?",
+      "opcoes": [
+        "Variedade de identidades e características",
+        "Uniformidade cultural",
+        "Eliminação de diferenças"
+      ],
+      "correta": 0,
+      "explicacao": "Diversidade inclui diferenças culturais, étnicas, religiosas e sociais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A inclusão promove igualdade de oportunidades.",
+      "pergunta": "O que é inclusão?",
+      "opcoes": [
+        "Garantia de participação igualitária",
+        "Separação de grupos",
+        "Competição entre indivíduos"
+      ],
+      "correta": 0,
+      "explicacao": "Inclusão assegura acesso a direitos e oportunidades. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A empatia facilita relações sociais positivas.",
+      "pergunta": "O que é empatia?",
+      "opcoes": [
+        "Capacidade de compreender o outro",
+        "Apenas simpatia",
+        "Apenas comunicação verbal"
+      ],
+      "correta": 0,
+      "explicacao": "Empatia envolve compreender emoções e perspetivas alheias. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A intolerância rejeita diferenças culturais.",
+      "pergunta": "O que é intolerância?",
+      "opcoes": [
+        "Recusa em aceitar diferenças",
+        "Discussão saudável",
+        "Mudança de opinião"
+      ],
+      "correta": 0,
+      "explicacao": "Intolerância impede convivência e respeito mútuo. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A xenofobia é hostilidade contra estrangeiros.",
+      "pergunta": "O que é xenofobia?",
+      "opcoes": [
+        "Hostilidade contra estrangeiros",
+        "Interesse por outras culturas",
+        "Viagens internacionais"
+      ],
+      "correta": 0,
+      "explicacao": "Xenofobia é rejeição de pessoas de outros países. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O racismo baseia-se na ideia falsa de superioridade racial.",
+      "pergunta": "O que é racismo?",
+      "opcoes": [
+        "Discriminação baseada em raça",
+        "Discussão política",
+        "Diferença de opinião"
+      ],
+      "correta": 0,
+      "explicacao": "Racismo envolve práticas e crenças discriminatórias. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O sexismo discrimina com base no género.",
+      "pergunta": "O que é sexismo?",
+      "opcoes": [
+        "Discriminação baseada no género",
+        "Discussão entre casais",
+        "Preferência pessoal"
+      ],
+      "correta": 0,
+      "explicacao": "Sexismo afeta oportunidades e direitos de género. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O bullying envolve agressão repetida.",
+      "pergunta": "O que é bullying?",
+      "opcoes": [
+        "Agressão repetida contra alguém vulnerável",
+        "Discussão entre amigos",
+        "Competição saudável"
+      ],
+      "correta": 0,
+      "explicacao": "Bullying inclui agressão física, verbal ou psicológica. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O assédio moral ocorre em contextos profissionais.",
+      "pergunta": "O que é assédio moral?",
+      "opcoes": [
+        "Humilhação repetida no trabalho",
+        "Crítica construtiva",
+        "Conversa informal"
+      ],
+      "correta": 0,
+      "explicacao": "Assédio moral prejudica a saúde psicológica e profissional. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "As organizações têm culturas próprias.",
+      "pergunta": "O que é cultura organizacional?",
+      "opcoes": [
+        "Valores e práticas de uma organização",
+        "Apenas regras formais",
+        "Apenas objetivos financeiros"
+      ],
+      "correta": 0,
+      "explicacao": "Cultura organizacional molda comportamentos e relações internas. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A identidade profissional é parte da identidade social.",
+      "pergunta": "O que é identidade profissional?",
+      "opcoes": [
+        "Perceção de si no contexto do trabalho",
+        "Apenas o cargo ocupado",
+        "Apenas o salário"
+      ],
+      "correta": 0,
+      "explicacao": "Identidade profissional envolve valores, competências e papéis. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A liderança influencia o clima organizacional.",
+      "pergunta": "O que é liderança?",
+      "opcoes": [
+        "Capacidade de orientar e motivar um grupo",
+        "Apenas dar ordens",
+        "Apenas gerir recursos"
+      ],
+      "correta": 0,
+      "explicacao": "Liderança envolve influência, motivação e direção. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A cooperação facilita o trabalho coletivo.",
+      "pergunta": "O que é cooperação?",
+      "opcoes": [
+        "Ação conjunta para atingir objetivos comuns",
+        "Competição entre indivíduos",
+        "Trabalho isolado"
+      ],
+      "correta": 0,
+      "explicacao": "Cooperação melhora resultados e relações sociais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O conflito organizacional pode gerar mudança.",
+      "pergunta": "O que é conflito organizacional?",
+      "opcoes": [
+        "Divergência entre membros de uma organização",
+        "Discussão informal",
+        "Competição desportiva"
+      ],
+      "correta": 0,
+      "explicacao": "Conflitos podem ser funcionais ou disfuncionais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A alteridade é essencial para relações interculturais.",
+      "pergunta": "Por que a alteridade é importante nas organizações?",
+      "opcoes": [
+        "Promove respeito e compreensão entre diferentes grupos",
+        "Elimina diferenças culturais",
+        "Impede cooperação"
+      ],
+      "correta": 0,
+      "explicacao": "Alteridade melhora comunicação, inclusão e diversidade. (Fonte: IADE)"
+    }
+  ]
+}

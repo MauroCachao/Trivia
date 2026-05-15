@@ -1,0 +1,225 @@
+{
+  "categoria": "INDIVÍDUO, COMUNIDADE E SOCIEDADE",
+  "perguntas": [
+    {
+      "curiosidade": "O indivíduo constrói a sua identidade através da interação social.",
+      "pergunta": "O que é um indivíduo em Sociologia?",
+      "opcoes": [
+        "Um ser isolado sem influência social",
+        "Um ser social que interage e constrói identidade",
+        "Apenas um membro da família"
+      ],
+      "correta": 1,
+      "explicacao": "O indivíduo é um ser social cuja identidade se forma na interação. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A comunidade envolve laços fortes e proximidade.",
+      "pergunta": "O que caracteriza uma comunidade?",
+      "opcoes": [
+        "Relações impessoais e formais",
+        "Laços afetivos e proximidade",
+        "Apenas relações económicas"
+      ],
+      "correta": 1,
+      "explicacao": "Comunidade implica proximidade, partilha e laços fortes. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A sociedade é mais ampla do que a comunidade.",
+      "pergunta": "O que é sociedade?",
+      "opcoes": [
+        "Um conjunto organizado de indivíduos que partilham normas",
+        "Um grupo de amigos",
+        "Uma família extensa"
+      ],
+      "correta": 0,
+      "explicacao": "Sociedade envolve normas, instituições e organização coletiva. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Os grupos sociais influenciam comportamentos.",
+      "pergunta": "O que é um grupo social?",
+      "opcoes": [
+        "Conjunto de pessoas que interagem e partilham objetivos",
+        "Pessoas que vivem na mesma rua",
+        "Pessoas que não se conhecem"
+      ],
+      "correta": 0,
+      "explicacao": "Grupos sociais envolvem interação e identidade partilhada. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Os grupos primários têm relações íntimas.",
+      "pergunta": "O que é um grupo primário?",
+      "opcoes": [
+        "Grupo com relações íntimas e duradouras",
+        "Grupo profissional",
+        "Grupo temporário"
+      ],
+      "correta": 0,
+      "explicacao": "Família e amigos próximos são exemplos de grupos primários. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Os grupos secundários são formais e funcionais.",
+      "pergunta": "O que é um grupo secundário?",
+      "opcoes": [
+        "Grupo com relações íntimas",
+        "Grupo com relações formais e orientadas a objetivos",
+        "Grupo familiar"
+      ],
+      "correta": 1,
+      "explicacao": "Grupos secundários incluem escolas, empresas e organizações. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O papel social define comportamentos esperados.",
+      "pergunta": "O que é um papel social?",
+      "opcoes": [
+        "Uma profissão",
+        "Conjunto de expectativas associadas a uma posição",
+        "Uma característica física"
+      ],
+      "correta": 1,
+      "explicacao": "Cada posição social tem expectativas de comportamento. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O status social pode ser atribuído ou adquirido.",
+      "pergunta": "O que é status social?",
+      "opcoes": [
+        "Posição que o indivíduo ocupa na hierarquia social",
+        "Apenas riqueza",
+        "Apenas profissão"
+      ],
+      "correta": 0,
+      "explicacao": "Status pode ser herdado (atribuído) ou conquistado (adquirido). (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A socialização é essencial para integrar o indivíduo.",
+      "pergunta": "O que é socialização?",
+      "opcoes": [
+        "Processo de aprendizagem de normas e valores",
+        "Ato de fazer amigos",
+        "Apenas educação escolar"
+      ],
+      "correta": 0,
+      "explicacao": "A socialização ocorre na família, escola e outros contextos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A socialização primária ocorre na infância.",
+      "pergunta": "Onde ocorre a socialização primária?",
+      "opcoes": [
+        "Na família",
+        "Na universidade",
+        "No trabalho"
+      ],
+      "correta": 0,
+      "explicacao": "A família é o primeiro agente de socialização. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A socialização secundária ocorre ao longo da vida.",
+      "pergunta": "O que caracteriza a socialização secundária?",
+      "opcoes": [
+        "Aprendizagem inicial da infância",
+        "Integração em novos grupos e instituições",
+        "Apenas educação religiosa"
+      ],
+      "correta": 1,
+      "explicacao": "Inclui escola, trabalho, grupos formais e informais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A coesão social mantém a sociedade unida.",
+      "pergunta": "O que é coesão social?",
+      "opcoes": [
+        "Conflito entre grupos",
+        "Grau de união e solidariedade",
+        "Competição económica"
+      ],
+      "correta": 1,
+      "explicacao": "Coesão social refere-se à integração e solidariedade entre membros. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O conflito social pode gerar mudança.",
+      "pergunta": "O que é conflito social?",
+      "opcoes": [
+        "Desentendimento entre grupos com interesses diferentes",
+        "Apenas violência física",
+        "Ausência de interação"
+      ],
+      "correta": 0,
+      "explicacao": "Conflitos podem gerar transformação social. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A anomia ocorre quando normas sociais enfraquecem.",
+      "pergunta": "O que é anomia?",
+      "opcoes": [
+        "Ausência ou fragilidade de normas",
+        "Excesso de regras",
+        "Conflito entre países"
+      ],
+      "correta": 0,
+      "explicacao": "Durkheim definiu anomia como falta de regulação social. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O controlo social regula comportamentos.",
+      "pergunta": "O que é controlo social?",
+      "opcoes": [
+        "Mecanismos que regulam comportamentos",
+        "Apenas leis do Estado",
+        "Apenas punições"
+      ],
+      "correta": 0,
+      "explicacao": "Inclui normas, valores, instituições e sanções. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A mobilidade social pode ser ascendente ou descendente.",
+      "pergunta": "O que é mobilidade social?",
+      "opcoes": [
+        "Mudança de posição social",
+        "Mudança de residência",
+        "Mudança de profissão sem impacto social"
+      ],
+      "correta": 0,
+      "explicacao": "Mobilidade pode ocorrer entre gerações ou dentro da mesma vida. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A estratificação social divide a sociedade em camadas.",
+      "pergunta": "O que é estratificação social?",
+      "opcoes": [
+        "Divisão da sociedade em grupos hierárquicos",
+        "Mistura total de classes",
+        "Ausência de desigualdade"
+      ],
+      "correta": 0,
+      "explicacao": "Estratificação envolve classes, castas ou grupos socioeconómicos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A identidade social depende dos grupos a que pertencemos.",
+      "pergunta": "O que é identidade social?",
+      "opcoes": [
+        "Perceção de pertença a grupos sociais",
+        "Apenas características físicas",
+        "Apenas profissão"
+      ],
+      "correta": 0,
+      "explicacao": "Identidade social resulta da pertença a grupos e categorias. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A exclusão social impede participação plena.",
+      "pergunta": "O que é exclusão social?",
+      "opcoes": [
+        "Processo que limita acesso a recursos e direitos",
+        "Mudança de emprego",
+        "Mudança de residência"
+      ],
+      "correta": 0,
+      "explicacao": "Exclusão afeta educação, saúde, trabalho e cidadania. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A inclusão social promove igualdade de oportunidades.",
+      "pergunta": "O que é inclusão social?",
+      "opcoes": [
+        "Garantia de participação plena na sociedade",
+        "Apenas apoio financeiro",
+        "Apenas integração escolar"
+      ],
+      "correta": 0,
+      "explicacao": "Inclui acesso a direitos, serviços e oportunidades. (Fonte: IADE)"
+    }
+  ]
+}

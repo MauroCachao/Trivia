@@ -1,0 +1,125 @@
+{
+  "categoria": "PERIODIZAÇÃO SOCIO-HISTÓRICA E PARADIGMAS CIVILIZACIONAIS",
+  "perguntas": [
+    {
+      "curiosidade": "A periodização histórica ajuda a compreender continuidades e rupturas sociais.",
+      "pergunta": "O que é periodização histórica?",
+      "opcoes": [
+        "Divisão do tempo em fases para facilitar a análise",
+        "Um calendário religioso",
+        "Um método de previsão do futuro"
+      ],
+      "correta": 0,
+      "explicacao": "A periodização organiza o tempo em etapas com características próprias, facilitando a análise sociológica.",
+      "fonte": "IADE"
+    },
+    {
+      "curiosidade": "A Idade Moderna marca o início do capitalismo comercial.",
+      "pergunta": "Qual evento simboliza o início da Idade Moderna?",
+      "opcoes": [
+        "A Queda de Constantinopla (1453)",
+        "A Revolução Francesa (1789)",
+        "A Revolução Industrial (século XVIII)"
+      ],
+      "correta": 0,
+      "explicacao": "A Queda de Constantinopla é tradicionalmente usada como marco inicial da Idade Moderna.",
+      "fonte": "IADE"
+    },
+    {
+      "curiosidade": "A Idade Contemporânea é marcada por revoluções políticas e tecnológicas.",
+      "pergunta": "Qual acontecimento marca o início da Idade Contemporânea?",
+      "opcoes": [
+        "A Revolução Francesa (1789)",
+        "A Primeira Guerra Mundial",
+        "A invenção da imprensa"
+      ],
+      "correta": 0,
+      "explicacao": "A Revolução Francesa inaugura a Idade Contemporânea, com novos paradigmas políticos e sociais.",
+      "fonte": "IADE"
+    },
+    {
+      "curiosidade": "Os paradigmas civilizacionais explicam grandes modelos de organização social.",
+      "pergunta": "O que é um paradigma civilizacional?",
+      "opcoes": [
+        "Um modelo que orienta a organização de uma sociedade",
+        "Uma lei científica",
+        "Um conjunto de tradições religiosas"
+      ],
+      "correta": 0,
+      "explicacao": "Paradigmas civilizacionais são modelos estruturantes que definem valores, economia e organização social.",
+      "fonte": "IADE"
+    },
+    {
+      "curiosidade": "O paradigma agrícola dominou durante milhares de anos.",
+      "pergunta": "Qual característica define o paradigma agrícola?",
+      "opcoes": [
+        "Economia baseada na agricultura e trabalho manual",
+        "Predomínio da indústria pesada",
+        "Sociedade digital e globalizada"
+      ],
+      "correta": 0,
+      "explicacao": "O paradigma agrícola assenta na produção agrícola e numa sociedade rural.",
+      "fonte": "IADE"
+    },
+    {
+      "curiosidade": "A Revolução Industrial transformou profundamente o trabalho humano.",
+      "pergunta": "O que caracteriza o paradigma industrial?",
+      "opcoes": [
+        "Produção mecanizada e urbanização",
+        "Economia rural",
+        "Sociedades tribais"
+      ],
+      "correta": 0,
+      "explicacao": "O paradigma industrial introduz máquinas, fábricas e cidades como centros produtivos.",
+      "fonte": "IADE"
+    },
+    {
+      "curiosidade": "O paradigma pós-industrial valoriza o conhecimento.",
+      "pergunta": "O que define o paradigma pós-industrial?",
+      "opcoes": [
+        "Centralidade dos serviços e da informação",
+        "Dependência exclusiva da agricultura",
+        "Expansão colonial"
+      ],
+      "correta": 0,
+      "explicacao": "O paradigma pós-industrial destaca o setor terciário e a economia do conhecimento.",
+      "fonte": "IADE"
+    },
+    {
+      "curiosidade": "A globalização intensificou interdependências económicas e culturais.",
+      "pergunta": "A globalização é característica de que paradigma?",
+      "opcoes": [
+        "Pós-industrial",
+        "Agrícola",
+        "Feudal"
+      ],
+      "correta": 0,
+      "explicacao": "A globalização é um fenómeno típico das sociedades pós-industriais e contemporâneas.",
+      "fonte": "IADE"
+    },
+    {
+      "curiosidade": "A Idade Média durou aproximadamente mil anos.",
+      "pergunta": "Qual é o marco tradicional do início da Idade Média?",
+      "opcoes": [
+        "A queda do Império Romano do Ocidente (476)",
+        "A invenção da escrita",
+        "A descoberta da América"
+      ],
+      "correta": 0,
+      "explicacao": "A queda do Império Romano do Ocidente marca o início da Idade Média.",
+      "fonte": "IADE"
+    },
+    {
+      "curiosidade": "A modernidade trouxe novos valores como racionalidade e progresso.",
+      "pergunta": "Qual destes valores está associado à modernidade?",
+      "opcoes": [
+        "Racionalidade e ciência",
+        "Dominação feudal",
+        "Economia de subsistência"
+      ],
+      "correta": 0,
+      "explicacao": "A modernidade valoriza ciência, razão e progresso.",
+      "fonte": "IADE"
+    }
+  ]
+}

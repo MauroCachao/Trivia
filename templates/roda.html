@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block title %}Roda{% endblock %}
+{% block content %}
+
+<div class="card fade-in" style="max-width:700px; text-align:center;">
+
+    <!-- Jogador atual -->
+    <img src="{{ url_for('static', filename='avatars/' ~ jogador_atual.avatar) }}" class="avatar-big">
+    <h2>{{ jogador_atual.nome }}</h2>
+
+    <!-- QUEIJOS DO JOGADOR ATUAL -->
+    <div style="margin-top:10px;">
+        {% for q in jogador_atual.queijos %}
+            <span class="queijo-mini" style="background: {{ cores_queijo[q] }}"></span>
+        {% endfor %}
+    </div>
+
+    <br>
+
+    <!-- Roda -->
+    <img src="{{ url_for('static', filename='img/roda.png') }}" id="roda" class="roda-img">
+
+    <br><br>
+
+    <button id="spinBtn" class="btn pulse">Girar</button>
+
+    <br><br>
+
+    <!-- LEGENDA DAS CATEGORIAS -->
+    <div class="legendas">
+        {% for cat in categorias %}
+            <div class="legenda-item">
+                <span class="legenda-cor" style="background: {{ cores_queijo.get(cat, '#999') }}"></span>
+                <span class="legenda-texto">{{ cat }}</span>
+            </div>
+        {% endfor %}
+    </div>
+
+</div>
+
+<style>
+.legendas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    margin-top: 20px;
+}
+
+.legenda-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.legenda-cor {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+.legenda-texto {
+    font-size: 14px;
+    color: white;
+}
+</style>
+
+<script>
+const categorias = {{ categorias|tojson }};
+const btn = document.getElementById("spinBtn");
+const roda = document.getElementById("roda");
+
+btn.onclick = () => {
+    const graus = 3600 + Math.floor(Math.random() * 360);
+    roda.style.transition = "4s ease-out";
+    roda.style.transform = `rotate(${graus}deg)`;
+
+    setTimeout(() => {
+        const idx = Math.floor((graus % 360) / (360 / categorias.length));
+        const tema = categorias[categorias.length - 1 - idx];
+        window.location.href = "/quiz_tema?tema=" + encodeURIComponent(tema);
+    }, 4200);
+};
+</script>
+
+{% endblock %}

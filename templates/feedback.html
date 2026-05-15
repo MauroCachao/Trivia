@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}Resultado{% endblock %}
+{% block content %}
+
+<!-- Fundo -->
+<div class="bg-img" style="
+    background-image: url('{{ url_for('static', filename=pergunta.imagem) }}');
+    filter: brightness(0.35);
+"></div>
+
+<div class="card fade-in" style="text-align:center; max-width:700px;">
+
+    {% if acertou %}
+        <h1 class="feedback-certo">✔ Acertaste!</h1>
+
+        {% if session.get("queijo_ganho") %}
+        <p style="font-size:22px; margin-top:10px;">
+            Ganhaste o queijo de  
+            <b style="color: {{ cores_queijo[tema] }}">{{ tema }}</b>!
+        </p>
+        {% endif %}
+
+    {% else %}
+        <h1 class="feedback-errado">✘ Erraste!</h1>
+
+        <p style="font-size:22px; margin-top:10px;">
+            A resposta correta era:<br>
+            <b>{{ resposta_certa }}</b>
+        </p>
+
+        <p style="font-size:20px; margin-top:10px;">
+            Perdeste o queijo de  
+            <b style="color: {{ cores_queijo[tema] }}">{{ tema }}</b>
+        </p>
+    {% endif %}
+
+    <br><br>
+
+    <a href="{{ url_for('roda') }}" class="btn pulse" style="font-size:20px;">
+        Continuar
+    </a>
+
+</div>
+
+{% endblock %}

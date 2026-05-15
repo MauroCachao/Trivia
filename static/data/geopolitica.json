@@ -1,0 +1,225 @@
+{
+  "categoria": "GEOPOLÍTICA, SEGURANÇA E SOCIEDADE DO RISCO",
+  "perguntas": [
+    {
+      "curiosidade": "A geopolítica estuda relações de poder entre Estados.",
+      "pergunta": "O que é geopolítica?",
+      "opcoes": [
+        "Estudo das relações de poder no espaço internacional",
+        "Estudo da cultura de um país",
+        "Análise de fenómenos naturais"
+      ],
+      "correta": 0,
+      "explicacao": "A geopolítica analisa como território, poder e interesses influenciam relações internacionais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A soberania é um princípio fundamental do Estado moderno.",
+      "pergunta": "O que é soberania?",
+      "opcoes": [
+        "Poder supremo de um Estado sobre o seu território",
+        "A capacidade de criar empresas",
+        "A influência cultural de um país"
+      ],
+      "correta": 0,
+      "explicacao": "Soberania significa autoridade máxima dentro de um território. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "As fronteiras podem ser políticas, culturais ou naturais.",
+      "pergunta": "O que é uma fronteira política?",
+      "opcoes": [
+        "Limite territorial entre Estados",
+        "Uma barreira natural",
+        "Uma zona de comércio"
+      ],
+      "correta": 0,
+      "explicacao": "Fronteiras políticas delimitam territórios estatais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A ONU foi criada após a Segunda Guerra Mundial.",
+      "pergunta": "Qual é o principal objetivo da ONU?",
+      "opcoes": [
+        "Promover paz e cooperação internacional",
+        "Criar blocos militares",
+        "Controlar economias nacionais"
+      ],
+      "correta": 0,
+      "explicacao": "A ONU visa manter a paz e promover direitos humanos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A OTAN é uma aliança militar criada em 1949.",
+      "pergunta": "O que é a OTAN?",
+      "opcoes": [
+        "Uma aliança militar de defesa coletiva",
+        "Uma organização cultural",
+        "Um bloco económico"
+      ],
+      "correta": 0,
+      "explicacao": "A OTAN reúne países que se comprometem com defesa mútua. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A Guerra Fria foi marcada pela bipolaridade.",
+      "pergunta": "O que caracteriza a Guerra Fria?",
+      "opcoes": [
+        "Conflito ideológico entre EUA e URSS sem confronto direto",
+        "Guerra mundial com batalhas em vários países",
+        "Conflito apenas económico"
+      ],
+      "correta": 0,
+      "explicacao": "A Guerra Fria opôs capitalismo e socialismo num conflito indireto. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A sociedade do risco foi teorizada por Ulrich Beck.",
+      "pergunta": "O que é sociedade do risco?",
+      "opcoes": [
+        "Sociedade marcada por riscos globais e imprevisíveis",
+        "Sociedade sem ameaças",
+        "Sociedade baseada apenas na agricultura"
+      ],
+      "correta": 0,
+      "explicacao": "A sociedade do risco enfrenta ameaças tecnológicas, ambientais e globais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Os riscos globais não respeitam fronteiras.",
+      "pergunta": "O que caracteriza um risco global?",
+      "opcoes": [
+        "Afeta vários países e é difícil de controlar",
+        "Afeta apenas uma cidade",
+        "É sempre previsível"
+      ],
+      "correta": 0,
+      "explicacao": "Riscos globais incluem pandemias, terrorismo e alterações climáticas. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O terrorismo é um fenómeno político e social.",
+      "pergunta": "O que é terrorismo?",
+      "opcoes": [
+        "Uso de violência para fins políticos",
+        "Conflito entre empresas",
+        "Apenas vandalismo"
+      ],
+      "correta": 0,
+      "explicacao": "Terrorismo utiliza violência para gerar medo e pressão política. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A cibersegurança tornou-se essencial na era digital.",
+      "pergunta": "O que é cibersegurança?",
+      "opcoes": [
+        "Proteção contra ataques digitais",
+        "Proteção de fronteiras físicas",
+        "Apenas segurança militar"
+      ],
+      "correta": 0,
+      "explicacao": "Cibersegurança protege sistemas, dados e infraestruturas digitais. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A espionagem existe desde as primeiras civilizações.",
+      "pergunta": "O que é espionagem?",
+      "opcoes": [
+        "Obtenção secreta de informações estratégicas",
+        "Troca comercial entre países",
+        "Apenas vigilância policial"
+      ],
+      "correta": 0,
+      "explicacao": "Espionagem envolve recolha clandestina de informação. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Sanções internacionais são ferramentas de pressão política.",
+      "pergunta": "O que são sanções internacionais?",
+      "opcoes": [
+        "Medidas punitivas aplicadas a um Estado",
+        "Acordos de paz",
+        "Ajuda humanitária"
+      ],
+      "correta": 0,
+      "explicacao": "Sanções podem ser económicas, diplomáticas ou militares. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Embargos económicos limitam trocas comerciais.",
+      "pergunta": "O que é um embargo económico?",
+      "opcoes": [
+        "Restrição de comércio com um país",
+        "Acordo de livre comércio",
+        "Ajuda financeira"
+      ],
+      "correta": 0,
+      "explicacao": "Embargos são usados como forma de pressão política. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Soft power é poder baseado em influência cultural.",
+      "pergunta": "O que é soft power?",
+      "opcoes": [
+        "Influência baseada em cultura e diplomacia",
+        "Uso de força militar",
+        "Pressão económica"
+      ],
+      "correta": 0,
+      "explicacao": "Soft power influencia através de cultura, valores e diplomacia. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Hard power envolve força militar ou económica.",
+      "pergunta": "O que é hard power?",
+      "opcoes": [
+        "Uso de força militar ou económica",
+        "Influência cultural",
+        "Apenas negociações diplomáticas"
+      ],
+      "correta": 0,
+      "explicacao": "Hard power utiliza meios coercivos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A multipolaridade caracteriza o mundo atual.",
+      "pergunta": "O que é multipolaridade?",
+      "opcoes": [
+        "Existência de vários centros de poder",
+        "Domínio de um único país",
+        "Divisão do mundo em dois blocos"
+      ],
+      "correta": 0,
+      "explicacao": "Multipolaridade envolve vários Estados influentes. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A unipolaridade ocorreu após a Guerra Fria.",
+      "pergunta": "O que é unipolaridade?",
+      "opcoes": [
+        "Predomínio de um único Estado",
+        "Equilíbrio entre várias potências",
+        "Divisão em dois blocos"
+      ],
+      "correta": 0,
+      "explicacao": "Após 1991, os EUA tornaram-se a principal potência global. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A bipolaridade marcou a Guerra Fria.",
+      "pergunta": "O que é bipolaridade?",
+      "opcoes": [
+        "Divisão do sistema internacional em dois blocos",
+        "Domínio de um único país",
+        "Equilíbrio entre várias potências"
+      ],
+      "correta": 0,
+      "explicacao": "Bipolaridade opôs EUA e URSS. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "Os conflitos armados podem ser internos ou externos.",
+      "pergunta": "O que é um conflito armado?",
+      "opcoes": [
+        "Enfrentamento violento entre grupos ou Estados",
+        "Debate político",
+        "Conflito económico"
+      ],
+      "correta": 0,
+      "explicacao": "Conflitos armados envolvem uso de força militar. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A segurança nacional envolve proteção interna e externa.",
+      "pergunta": "O que é segurança nacional?",
+      "opcoes": [
+        "Proteção do Estado contra ameaças internas e externas",
+        "Apenas defesa militar",
+        "Apenas vigilância policial"
+      ],
+      "correta": 0,
+      "explicacao": "Inclui defesa, inteligência, diplomacia e estabilidade interna. (Fonte: IADE)"
+    }
+  ]
+}

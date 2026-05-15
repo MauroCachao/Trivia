@@ -1,0 +1,225 @@
+{
+  "categoria": "CONTEMPORANEIDADE CULTURAL E DESAFIOS DE CIVILIZAÇÃO",
+  "perguntas": [
+    {
+      "curiosidade": "A contemporaneidade é marcada por rápidas transformações sociais e tecnológicas.",
+      "pergunta": "O que é contemporaneidade?",
+      "opcoes": [
+        "Período atual caracterizado por mudanças rápidas",
+        "Período medieval",
+        "Apenas o século XIX"
+      ],
+      "correta": 0,
+      "explicacao": "A contemporaneidade envolve globalização, tecnologia e diversidade cultural. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A digitalização transformou a forma como trabalhamos e comunicamos.",
+      "pergunta": "O que é digitalização?",
+      "opcoes": [
+        "Conversão de processos para formato digital",
+        "Aumento da população rural",
+        "Redução da tecnologia"
+      ],
+      "correta": 0,
+      "explicacao": "Digitalização envolve informatização e automação de processos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A inteligência artificial está presente em várias áreas.",
+      "pergunta": "O que é inteligência artificial?",
+      "opcoes": [
+        "Tecnologia que simula capacidades humanas",
+        "Um tipo de robô físico",
+        "Apenas jogos de computador"
+      ],
+      "correta": 0,
+      "explicacao": "IA envolve algoritmos capazes de aprender e tomar decisões. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A sustentabilidade é um dos maiores desafios globais.",
+      "pergunta": "O que é sustentabilidade?",
+      "opcoes": [
+        "Uso responsável dos recursos naturais",
+        "Exploração ilimitada de recursos",
+        "Apenas reciclagem"
+      ],
+      "correta": 0,
+      "explicacao": "Sustentabilidade visa equilibrar ambiente, economia e sociedade. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O aquecimento global afeta todo o planeta.",
+      "pergunta": "O que é aquecimento global?",
+      "opcoes": [
+        "Aumento da temperatura média da Terra",
+        "Apenas aumento de calor no verão",
+        "Fenómeno local"
+      ],
+      "correta": 0,
+      "explicacao": "É causado principalmente por emissões de gases de efeito estufa. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A desigualdade social é um problema persistente.",
+      "pergunta": "O que é desigualdade social?",
+      "opcoes": [
+        "Diferença no acesso a recursos e oportunidades",
+        "Diferença de opiniões",
+        "Variação de clima"
+      ],
+      "correta": 0,
+      "explicacao": "Desigualdade afeta educação, saúde, rendimento e direitos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "As migrações climáticas aumentam com eventos extremos.",
+      "pergunta": "O que é migração climática?",
+      "opcoes": [
+        "Deslocação causada por alterações ambientais",
+        "Mudança voluntária de país",
+        "Turismo internacional"
+      ],
+      "correta": 0,
+      "explicacao": "Secas, inundações e tempestades forçam deslocações humanas. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A economia circular reduz desperdício.",
+      "pergunta": "O que é economia circular?",
+      "opcoes": [
+        "Modelo que reutiliza e recicla recursos",
+        "Modelo baseado no descarte",
+        "Apenas produção agrícola"
+      ],
+      "correta": 0,
+      "explicacao": "Economia circular prolonga o ciclo de vida dos produtos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A desinformação espalha-se rapidamente nas redes sociais.",
+      "pergunta": "O que é desinformação?",
+      "opcoes": [
+        "Divulgação intencional de informações falsas",
+        "Erro de escrita",
+        "Opinião pessoal"
+      ],
+      "correta": 0,
+      "explicacao": "Desinformação manipula perceções e comportamentos. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A ciberdependência afeta milhões de pessoas.",
+      "pergunta": "O que é ciberdependência?",
+      "opcoes": [
+        "Dependência excessiva de tecnologias digitais",
+        "Uso moderado de internet",
+        "Apenas trabalho remoto"
+      ],
+      "correta": 0,
+      "explicacao": "Ciberdependência prejudica relações, produtividade e saúde mental. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A vigilância digital cresce com novas tecnologias.",
+      "pergunta": "O que é vigilância digital?",
+      "opcoes": [
+        "Monitorização de atividades através de tecnologia",
+        "Apenas câmaras de rua",
+        "Apenas vigilância policial"
+      ],
+      "correta": 0,
+      "explicacao": "Inclui recolha de dados, rastreamento e análise comportamental. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A biotecnologia permite manipular organismos vivos.",
+      "pergunta": "O que é biotecnologia?",
+      "opcoes": [
+        "Uso de organismos vivos para fins tecnológicos",
+        "Apenas agricultura tradicional",
+        "Apenas medicina natural"
+      ],
+      "correta": 0,
+      "explicacao": "Biotecnologia inclui engenharia genética, vacinas e bioenergia. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "O transumanismo defende a melhoria humana através da tecnologia.",
+      "pergunta": "O que é transumanismo?",
+      "opcoes": [
+        "Movimento que defende o uso de tecnologia para ampliar capacidades humanas",
+        "Retorno a estilos de vida antigos",
+        "Rejeição total da tecnologia"
+      ],
+      "correta": 0,
+      "explicacao": "Transumanismo explora IA, biotecnologia e cibernética. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A globalização cultural intensifica trocas simbólicas.",
+      "pergunta": "O que é globalização cultural?",
+      "opcoes": [
+        "Circulação global de ideias e práticas culturais",
+        "Isolamento entre países",
+        "Fim das tradições locais"
+      ],
+      "correta": 0,
+      "explicacao": "Globalização cultural aumenta interconexões e influências. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "As fake news influenciam opiniões e decisões.",
+      "pergunta": "O que são fake news?",
+      "opcoes": [
+        "Notícias falsas divulgadas como verdadeiras",
+        "Erros de digitação",
+        "Opiniões pessoais"
+      ],
+      "correta": 0,
+      "explicacao": "Fake news manipulam perceções e podem afetar democracias. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "As redes sociais moldam identidades contemporâneas.",
+      "pergunta": "Como as redes sociais influenciam identidades?",
+      "opcoes": [
+        "Através da exposição a modelos culturais",
+        "Não influenciam",
+        "Apenas servem para entretenimento"
+      ],
+      "correta": 0,
+      "explicacao": "Redes sociais moldam comportamentos, valores e autoimagem. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A automação substitui tarefas repetitivas.",
+      "pergunta": "O que é automação?",
+      "opcoes": [
+        "Uso de máquinas para realizar tarefas humanas",
+        "Aumento do trabalho manual",
+        "Redução da tecnologia"
+      ],
+      "correta": 0,
+      "explicacao": "Automação aumenta eficiência mas pode gerar desemprego tecnológico. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A multiculturalidade caracteriza sociedades globalizadas.",
+      "pergunta": "O que é multiculturalidade?",
+      "opcoes": [
+        "Coexistência de várias culturas num mesmo espaço",
+        "Domínio de uma única cultura",
+        "Fim das diferenças culturais"
+      ],
+      "correta": 0,
+      "explicacao": "Multiculturalidade envolve diversidade e convivência cultural. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A crise ambiental é um dos maiores desafios atuais.",
+      "pergunta": "O que é crise ambiental?",
+      "opcoes": [
+        "Conjunto de problemas que ameaçam o equilíbrio ecológico",
+        "Apenas poluição urbana",
+        "Apenas desastres naturais"
+      ],
+      "correta": 0,
+      "explicacao": "Inclui aquecimento global, desflorestação e perda de biodiversidade. (Fonte: IADE)"
+    },
+    {
+      "curiosidade": "A cidadania digital é essencial na era tecnológica.",
+      "pergunta": "O que é cidadania digital?",
+      "opcoes": [
+        "Uso responsável e crítico das tecnologias digitais",
+        "Apenas votar online",
+        "Apenas criar contas em redes sociais"
+      ],
+      "correta": 0,
+      "explicacao": "Cidadania digital envolve ética, segurança e participação online. (Fonte: IADE)"
+    }
+  ]
+}

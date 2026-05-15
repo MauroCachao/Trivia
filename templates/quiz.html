@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}Pergunta{% endblock %}
+{% block content %}
+
+<div class="bg-img" style="
+    background-image: url('{{ url_for('static', filename=pergunta.imagem) }}');
+    filter: brightness(0.35);
+"></div>
+
+<div class="card fade-in" style="max-width:700px;">
+
+    <!-- Jogador atual -->
+    <div style="text-align:center; margin-bottom:20px;">
+        <img src="{{ url_for('static', filename='avatars/' ~ jogadores[jogador-1].avatar) }}" class="avatar-big">
+        <h2>{{ jogadores[jogador-1].nome }}</h2>
+
+        <!-- QUEIJOS DO JOGADOR ATUAL -->
+        <div>
+            {% for q in jogadores[jogador-1].queijos %}
+                <span class="queijo-mini" style="background: {{ cores_queijo[q] }}"></span>
+            {% endfor %}
+        </div>
+    </div>
+
+    <h3 class="tema">{{ tema }}</h3>
+
+    <p style="font-size:20px; margin-top:10px;">
+        {{ pergunta.pergunta }}
+    </p>
+
+    <form action="{{ url_for('quiz') }}" method="POST">
+        <input type="hidden" name="correta" value="{{ pergunta.correta }}">
+
+        {% for op in pergunta.opcoes %}
+        <label class="opcao">
+            <input type="radio" name="resposta" value="{{ loop.index0 }}" required>
+            {{ op }}
+        </label>
+        {% endfor %}
+
+        <br><br>
+        <button type="submit" class="btn pulse">Responder</button>
+    </form>
+
+</div>
+
+<!-- Barra inferior com todos os jogadores -->
+<div class="avatar-bar">
+    {% for j in jogadores %}
+    <div class="avatar-score">
+        <img src="{{ url_for('static', filename='avatars/' ~ j.avatar) }}" class="avatar-small">
+        <span class="score">{{ j.score }}</span>
+        <p class="player-name">{{ j.nome }}</p>
+
+        <!-- QUEIJOS DO JOGADOR -->
+        <div>
+            {% for q in j.queijos %}
+                <span class="queijo-mini" style="background: {{ cores_queijo[q] }}"></span>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+{% endblock %}

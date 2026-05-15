@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}Curiosidade{% endblock %}
+{% block content %}
+
+<!-- Fundo -->
+<div class="bg-img" style="
+    background-image: url('{{ url_for('static', filename=pergunta.imagem) }}');
+    filter: brightness(0.35);
+"></div>
+
+<div class="card fade-in" style="text-align:center; padding:25px;">
+
+    <!-- Tema -->
+    <h1 class="title">{{ tema }}</h1>
+
+    <!-- Imagem da curiosidade -->
+    {% if pergunta.imagem %}
+    <img src="{{ url_for('static', filename=pergunta.imagem) }}"
+         class="curiosidade-img"
+         style="max-width:300px; border-radius:15px; margin-bottom:20px;">
+    {% endif %}
+
+    <!-- Texto da curiosidade -->
+    <p style="font-size:20px; margin-top:10px;">
+        {{ pergunta.curiosidade }}
+    </p>
+
+    <br>
+
+    <!-- Botão para ir à pergunta -->
+    <a href="{{ url_for('pergunta') }}" class="btn pulse" style="font-size:20px;">
+        Continuar
+    </a>
+
+</div>
+
+<style>
+.curiosidade-img {
+    animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity:0; transform:scale(0.95); }
+    to { opacity:1; transform:scale(1); }
+}
+</style>
+
+{% endblock %}
