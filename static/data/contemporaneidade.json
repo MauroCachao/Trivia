@@ -1,225 +1,170 @@
 {
-  "categoria": "CONTEMPORANEIDADE CULTURAL E DESAFIOS DE CIVILIZAÇÃO",
+  "categoria": "CONTEMPORANEIDADE CULTURAL E DESAFIOS DE CIVILIZAÇÃO — Tecnologia",
   "perguntas": [
     {
-      "curiosidade": "A contemporaneidade é marcada por rápidas transformações sociais e tecnológicas.",
-      "pergunta": "O que é contemporaneidade?",
+      "curiosidade": "A contemporaneidade é marcada por transformações tecnológicas aceleradas.",
+      "pergunta": "Segundo Zygmunt Bauman, como a tecnologia intensifica a modernidade líquida?",
       "opcoes": [
-        "Período atual caracterizado por mudanças rápidas",
-        "Período medieval",
-        "Apenas o século XIX"
+        "Aumenta a fluidez das relações e a instabilidade das identidades",
+        "Estabiliza vínculos sociais",
+        "Elimina desigualdades culturais"
       ],
       "correta": 0,
-      "explicacao": "A contemporaneidade envolve globalização, tecnologia e diversidade cultural. (Fonte: IADE)"
+      "explicacao": "Bauman argumenta que a tecnologia acelera ritmos sociais e torna relações mais voláteis. (Fonte: Bauman, *Liquid Modernity*, 2000)"
     },
     {
-      "curiosidade": "A digitalização transformou a forma como trabalhamos e comunicamos.",
-      "pergunta": "O que é digitalização?",
+      "curiosidade": "A IA tornou-se um dos maiores desafios civilizacionais.",
+      "pergunta": "Segundo Nick Bostrom, qual o principal risco associado à superinteligência artificial?",
       "opcoes": [
-        "Conversão de processos para formato digital",
-        "Aumento da população rural",
-        "Redução da tecnologia"
+        "Perda de controlo humano sobre sistemas autónomos",
+        "Redução da inovação tecnológica",
+        "Eliminação de desigualdades sociais"
       ],
       "correta": 0,
-      "explicacao": "Digitalização envolve informatização e automação de processos. (Fonte: IADE)"
+      "explicacao": "Bostrom alerta para riscos existenciais associados à IA avançada. (Fonte: Bostrom, *Superintelligence*, 2014)"
     },
     {
-      "curiosidade": "A inteligência artificial está presente em várias áreas.",
-      "pergunta": "O que é inteligência artificial?",
+      "curiosidade": "A cultura digital redefine práticas culturais globais.",
+      "pergunta": "Segundo Byung-Chul Han, como a tecnologia molda a cultura contemporânea?",
       "opcoes": [
-        "Tecnologia que simula capacidades humanas",
-        "Um tipo de robô físico",
-        "Apenas jogos de computador"
+        "Promove hipertransparência e autoexploração",
+        "Reduz pressão social",
+        "Elimina competição"
       ],
       "correta": 0,
-      "explicacao": "IA envolve algoritmos capazes de aprender e tomar decisões. (Fonte: IADE)"
+      "explicacao": "Han descreve a sociedade digital como marcada por excesso de positividade e desempenho. (Fonte: Han, *The Transparency Society*, 2012)"
     },
     {
-      "curiosidade": "A sustentabilidade é um dos maiores desafios globais.",
-      "pergunta": "O que é sustentabilidade?",
+      "curiosidade": "A desinformação tornou-se um desafio civilizacional.",
+      "pergunta": "Segundo Cass Sunstein, qual o impacto das 'câmaras de eco' digitais?",
       "opcoes": [
-        "Uso responsável dos recursos naturais",
-        "Exploração ilimitada de recursos",
-        "Apenas reciclagem"
+        "Polarizam sociedades e reduzem diversidade informacional",
+        "Promovem consenso universal",
+        "Eliminam conflitos políticos"
       ],
       "correta": 0,
-      "explicacao": "Sustentabilidade visa equilibrar ambiente, economia e sociedade. (Fonte: IADE)"
+      "explicacao": "Sunstein mostra que algoritmos reforçam crenças pré-existentes. (Fonte: Sunstein, *#Republic*, 2017)"
     },
     {
-      "curiosidade": "O aquecimento global afeta todo o planeta.",
-      "pergunta": "O que é aquecimento global?",
+      "curiosidade": "A globalização digital cria novas tensões culturais.",
+      "pergunta": "Segundo Arjun Appadurai, qual o desafio cultural da era digital?",
       "opcoes": [
-        "Aumento da temperatura média da Terra",
-        "Apenas aumento de calor no verão",
-        "Fenómeno local"
+        "Gerir fluxos culturais intensificados por mediascapes digitais",
+        "Reduzir circulação cultural",
+        "Eliminar diversidade cultural"
       ],
       "correta": 0,
-      "explicacao": "É causado principalmente por emissões de gases de efeito estufa. (Fonte: IADE)"
+      "explicacao": "Appadurai analisa fluxos culturais globais mediados por tecnologia. (Fonte: Appadurai, *Modernity at Large*, 1996)"
     },
     {
-      "curiosidade": "A desigualdade social é um problema persistente.",
-      "pergunta": "O que é desigualdade social?",
+      "curiosidade": "A tecnociência redefine fronteiras éticas.",
+      "pergunta": "Segundo Bruno Latour, qual o desafio da tecnociência contemporânea?",
       "opcoes": [
-        "Diferença no acesso a recursos e oportunidades",
-        "Diferença de opiniões",
-        "Variação de clima"
+        "Reconhecer que humanos e tecnologias formam redes híbridas",
+        "Separar totalmente natureza e sociedade",
+        "Eliminar mediação tecnológica"
       ],
       "correta": 0,
-      "explicacao": "Desigualdade afeta educação, saúde, rendimento e direitos. (Fonte: IADE)"
+      "explicacao": "Latour critica a separação moderna entre natureza e tecnologia. (Fonte: Latour, *We Have Never Been Modern*, 1991)"
     },
     {
-      "curiosidade": "As migrações climáticas aumentam com eventos extremos.",
-      "pergunta": "O que é migração climática?",
+      "curiosidade": "A cultura digital cria novas formas de subjetividade.",
+      "pergunta": "Segundo Sherry Turkle, qual o impacto psicológico da tecnologia?",
       "opcoes": [
-        "Deslocação causada por alterações ambientais",
-        "Mudança voluntária de país",
-        "Turismo internacional"
+        "Cria identidades fragmentadas e dependência emocional de dispositivos",
+        "Elimina ansiedade social",
+        "Fortalece vínculos familiares"
       ],
       "correta": 0,
-      "explicacao": "Secas, inundações e tempestades forçam deslocações humanas. (Fonte: IADE)"
+      "explicacao": "Turkle analisa efeitos emocionais da vida digital. (Fonte: Turkle, *Alone Together*, 2011)"
     },
     {
-      "curiosidade": "A economia circular reduz desperdício.",
-      "pergunta": "O que é economia circular?",
+      "curiosidade": "A automação desafia modelos económicos tradicionais.",
+      "pergunta": "Segundo Erik Brynjolfsson, qual o principal desafio da automação?",
       "opcoes": [
-        "Modelo que reutiliza e recicla recursos",
-        "Modelo baseado no descarte",
-        "Apenas produção agrícola"
+        "Desigualdade crescente entre quem controla tecnologia e quem é substituído por ela",
+        "Redução da produtividade",
+        "Fim da inovação"
       ],
       "correta": 0,
-      "explicacao": "Economia circular prolonga o ciclo de vida dos produtos. (Fonte: IADE)"
+      "explicacao": "Brynjolfsson mostra que automação cognitiva amplia desigualdades. (Fonte: Brynjolfsson & McAfee, 2014)"
     },
     {
-      "curiosidade": "A desinformação espalha-se rapidamente nas redes sociais.",
-      "pergunta": "O que é desinformação?",
+      "curiosidade": "A cultura digital cria novas formas de vigilância.",
+      "pergunta": "Segundo David Lyon, qual o desafio da vigilância contemporânea?",
       "opcoes": [
-        "Divulgação intencional de informações falsas",
-        "Erro de escrita",
-        "Opinião pessoal"
+        "Normalização da vigilância e erosão da privacidade",
+        "Eliminação de riscos sociais",
+        "Transparência total das instituições"
       ],
       "correta": 0,
-      "explicacao": "Desinformação manipula perceções e comportamentos. (Fonte: IADE)"
+      "explicacao": "Lyon analisa vigilância como prática quotidiana. (Fonte: Lyon, *Surveillance Studies*, 2007)"
     },
     {
-      "curiosidade": "A ciberdependência afeta milhões de pessoas.",
-      "pergunta": "O que é ciberdependência?",
+      "curiosidade": "A ecologia digital tornou-se um tema civilizacional.",
+      "pergunta": "Segundo Kate Crawford, qual o impacto ambiental da IA?",
       "opcoes": [
-        "Dependência excessiva de tecnologias digitais",
-        "Uso moderado de internet",
-        "Apenas trabalho remoto"
+        "Consumo massivo de energia e extração intensiva de recursos",
+        "Neutralidade ecológica",
+        "Redução da pegada ambiental"
       ],
       "correta": 0,
-      "explicacao": "Ciberdependência prejudica relações, produtividade e saúde mental. (Fonte: IADE)"
+      "explicacao": "Crawford mostra que IA depende de cadeias materiais intensivas. (Fonte: Crawford, *Atlas of AI*, 2021)"
     },
     {
-      "curiosidade": "A vigilância digital cresce com novas tecnologias.",
-      "pergunta": "O que é vigilância digital?",
+      "curiosidade": "A cultura digital desafia instituições democráticas.",
+      "pergunta": "Segundo Yochai Benkler, qual o risco das redes digitais?",
       "opcoes": [
-        "Monitorização de atividades através de tecnologia",
-        "Apenas câmaras de rua",
-        "Apenas vigilância policial"
+        "Manipulação informacional e erosão da esfera pública",
+        "Fortalecimento automático da democracia",
+        "Eliminação de conflitos políticos"
       ],
       "correta": 0,
-      "explicacao": "Inclui recolha de dados, rastreamento e análise comportamental. (Fonte: IADE)"
+      "explicacao": "Benkler analisa como redes digitais podem ser manipuladas. (Fonte: Benkler, *Network Propaganda*, 2018)"
     },
     {
-      "curiosidade": "A biotecnologia permite manipular organismos vivos.",
-      "pergunta": "O que é biotecnologia?",
+      "curiosidade": "A contemporaneidade é marcada por aceleração constante.",
+      "pergunta": "Segundo Hartmut Rosa, qual o desafio da aceleração tecnológica?",
       "opcoes": [
-        "Uso de organismos vivos para fins tecnológicos",
-        "Apenas agricultura tradicional",
-        "Apenas medicina natural"
+        "Desalinhamento entre ritmos humanos e ritmos tecnológicos",
+        "Estagnação social",
+        "Redução da pressão temporal"
       ],
       "correta": 0,
-      "explicacao": "Biotecnologia inclui engenharia genética, vacinas e bioenergia. (Fonte: IADE)"
+      "explicacao": "Rosa argumenta que aceleração cria alienação e instabilidade. (Fonte: Rosa, *Social Acceleration*, 2013)"
     },
     {
-      "curiosidade": "O transumanismo defende a melhoria humana através da tecnologia.",
-      "pergunta": "O que é transumanismo?",
+      "curiosidade": "A cultura digital cria novas formas de desigualdade.",
+      "pergunta": "Segundo Thomas Piketty, como a tecnologia afeta desigualdades?",
       "opcoes": [
-        "Movimento que defende o uso de tecnologia para ampliar capacidades humanas",
-        "Retorno a estilos de vida antigos",
-        "Rejeição total da tecnologia"
+        "Concentra riqueza em quem controla capital tecnológico",
+        "Distribui riqueza de forma igualitária",
+        "Elimina desigualdades estruturais"
       ],
       "correta": 0,
-      "explicacao": "Transumanismo explora IA, biotecnologia e cibernética. (Fonte: IADE)"
+      "explicacao": "Piketty mostra que tecnologia amplifica desigualdades de capital. (Fonte: Piketty, *Capital in the 21st Century*, 2013)"
     },
     {
-      "curiosidade": "A globalização cultural intensifica trocas simbólicas.",
-      "pergunta": "O que é globalização cultural?",
+      "curiosidade": "A cultura digital desafia noções tradicionais de verdade.",
+      "pergunta": "Segundo Jean Baudrillard, como o digital afeta a realidade?",
       "opcoes": [
-        "Circulação global de ideias e práticas culturais",
-        "Isolamento entre países",
-        "Fim das tradições locais"
+        "Cria hiper-realidade onde simulações substituem o real",
+        "Reforça autenticidade",
+        "Elimina mediação simbólica"
       ],
       "correta": 0,
-      "explicacao": "Globalização cultural aumenta interconexões e influências. (Fonte: IADE)"
+      "explicacao": "Baudrillard descreve o domínio das simulações. (Fonte: Baudrillard, *Simulacra and Simulation*, 1981)"
     },
     {
-      "curiosidade": "As fake news influenciam opiniões e decisões.",
-      "pergunta": "O que são fake news?",
+      "curiosidade": "A contemporaneidade enfrenta desafios civilizacionais globais.",
+      "pergunta": "Segundo Ulrich Beck, qual o principal desafio da sociedade do risco?",
       "opcoes": [
-        "Notícias falsas divulgadas como verdadeiras",
-        "Erros de digitação",
-        "Opiniões pessoais"
+        "Riscos globais produzidos pela modernização tecnológica",
+        "Redução dos perigos globais",
+        "Eliminação de incertezas"
       ],
       "correta": 0,
-      "explicacao": "Fake news manipulam perceções e podem afetar democracias. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "As redes sociais moldam identidades contemporâneas.",
-      "pergunta": "Como as redes sociais influenciam identidades?",
-      "opcoes": [
-        "Através da exposição a modelos culturais",
-        "Não influenciam",
-        "Apenas servem para entretenimento"
-      ],
-      "correta": 0,
-      "explicacao": "Redes sociais moldam comportamentos, valores e autoimagem. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A automação substitui tarefas repetitivas.",
-      "pergunta": "O que é automação?",
-      "opcoes": [
-        "Uso de máquinas para realizar tarefas humanas",
-        "Aumento do trabalho manual",
-        "Redução da tecnologia"
-      ],
-      "correta": 0,
-      "explicacao": "Automação aumenta eficiência mas pode gerar desemprego tecnológico. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A multiculturalidade caracteriza sociedades globalizadas.",
-      "pergunta": "O que é multiculturalidade?",
-      "opcoes": [
-        "Coexistência de várias culturas num mesmo espaço",
-        "Domínio de uma única cultura",
-        "Fim das diferenças culturais"
-      ],
-      "correta": 0,
-      "explicacao": "Multiculturalidade envolve diversidade e convivência cultural. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A crise ambiental é um dos maiores desafios atuais.",
-      "pergunta": "O que é crise ambiental?",
-      "opcoes": [
-        "Conjunto de problemas que ameaçam o equilíbrio ecológico",
-        "Apenas poluição urbana",
-        "Apenas desastres naturais"
-      ],
-      "correta": 0,
-      "explicacao": "Inclui aquecimento global, desflorestação e perda de biodiversidade. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A cidadania digital é essencial na era tecnológica.",
-      "pergunta": "O que é cidadania digital?",
-      "opcoes": [
-        "Uso responsável e crítico das tecnologias digitais",
-        "Apenas votar online",
-        "Apenas criar contas em redes sociais"
-      ],
-      "correta": 0,
-      "explicacao": "Cidadania digital envolve ética, segurança e participação online. (Fonte: IADE)"
+      "explicacao": "Beck analisa riscos como produtos da modernidade avançada. (Fonte: Beck, *Risk Society*, 1986)"
     }
   ]
 }

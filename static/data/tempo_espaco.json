@@ -1,225 +1,170 @@
 {
-  "categoria": "O TEMPO E O ESPAÇO NA CONSTRUÇÃO SOCIAL DA REALIDADE",
+  "categoria": "O TEMPO E O ESPAÇO NA CONSTRUÇÃO SOCIAL DA REALIDADE — Tecnologia",
   "perguntas": [
     {
-      "curiosidade": "O tempo social não é igual ao tempo cronológico.",
-      "pergunta": "O que é tempo social?",
+      "curiosidade": "A digitalização alterou profundamente a forma como percebemos tempo e espaço.",
+      "pergunta": "Segundo David Harvey, o que caracteriza a 'compressão espaço-tempo' na era digital?",
       "opcoes": [
-        "A forma como as sociedades organizam e percebem o tempo",
-        "A medição científica do tempo",
-        "O tempo biológico dos seres vivos"
+        "A aceleração dos fluxos de informação e a redução da importância da distância",
+        "O retorno a ritmos sociais lentos",
+        "A eliminação total das fronteiras físicas"
       ],
       "correta": 0,
-      "explicacao": "O tempo social é construído culturalmente e varia entre sociedades. (Fonte: IADE)"
+      "explicacao": "Harvey argumenta que tecnologias digitais comprimem tempo e espaço ao acelerar comunicações e mobilidade. (Fonte: Harvey, *The Condition of Postmodernity*, 1989)"
     },
     {
-      "curiosidade": "O espaço social é moldado pelas relações humanas.",
-      "pergunta": "O que é espaço social?",
+      "curiosidade": "O espaço digital tornou-se tão relevante quanto o espaço físico.",
+      "pergunta": "Segundo Manuel Castells, o que é o 'espaço dos fluxos'?",
       "opcoes": [
-        "Um local físico sem significado",
-        "A organização dos lugares segundo relações sociais",
-        "Apenas o território de um país"
-      ],
-      "correta": 1,
-      "explicacao": "O espaço social resulta da ação humana e das relações sociais. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "O território envolve poder e controlo.",
-      "pergunta": "O que é território?",
-      "opcoes": [
-        "Um espaço controlado por um grupo ou Estado",
-        "Apenas uma área geográfica",
-        "Um espaço natural sem intervenção humana"
+        "Um espaço estruturado por redes digitais e fluxos de informação",
+        "Um território físico delimitado",
+        "Um espaço exclusivamente simbólico"
       ],
       "correta": 0,
-      "explicacao": "Território implica controlo político, social ou simbólico. (Fonte: IADE)"
+      "explicacao": "Castells descreve o espaço dos fluxos como infraestrutura digital que organiza a sociedade em rede. (Fonte: Castells, *The Rise of the Network Society*, 1996)"
     },
     {
-      "curiosidade": "A mobilidade espacial é uma característica das sociedades modernas.",
-      "pergunta": "O que é mobilidade espacial?",
+      "curiosidade": "A tecnologia redefine fronteiras e territorialidades.",
+      "pergunta": "Segundo Saskia Sassen, como a globalização digital afeta o território?",
       "opcoes": [
-        "Mudança de posição social",
-        "Deslocação de indivíduos no espaço",
-        "Mudança de profissão"
-      ],
-      "correta": 1,
-      "explicacao": "Mobilidade espacial refere-se a deslocações geográficas. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A migração é um fenómeno global.",
-      "pergunta": "O que é migração?",
-      "opcoes": [
-        "Deslocação de pessoas entre territórios",
-        "Mudança de hábitos culturais",
-        "Mudança de profissão"
+        "Cria novas formas de territorialidade através de redes financeiras e digitais",
+        "Elimina completamente o papel dos Estados",
+        "Reduz a importância das cidades"
       ],
       "correta": 0,
-      "explicacao": "Migração envolve deslocação permanente ou temporária. (Fonte: IADE)"
+      "explicacao": "Sassen mostra que territórios são reconfigurados por fluxos digitais e financeiros. (Fonte: Sassen, *The Global City*, 1991)"
     },
     {
-      "curiosidade": "A urbanização intensificou-se com a industrialização.",
-      "pergunta": "O que é urbanização?",
+      "curiosidade": "O espaço urbano é profundamente moldado por tecnologias.",
+      "pergunta": "Segundo Henri Lefebvre, como a tecnologia influencia a produção do espaço?",
       "opcoes": [
-        "Crescimento das cidades",
-        "Expansão das zonas rurais",
-        "Desaparecimento dos centros urbanos"
+        "Integra-se nas práticas sociais que produzem e transformam o espaço",
+        "Substitui completamente a ação humana",
+        "Elimina conflitos urbanos"
       ],
       "correta": 0,
-      "explicacao": "Urbanização é o aumento da população urbana. (Fonte: IADE)"
+      "explicacao": "Lefebvre argumenta que o espaço é produzido por relações sociais mediadas por tecnologia. (Fonte: Lefebvre, *La Production de l’Espace*, 1974)"
     },
     {
-      "curiosidade": "A ruralidade caracteriza espaços de baixa densidade populacional.",
-      "pergunta": "O que é ruralidade?",
+      "curiosidade": "A mobilidade digital redefine deslocações físicas.",
+      "pergunta": "Segundo Mimi Sheller e John Urry, o que caracteriza a 'sociedade da mobilidade'?",
       "opcoes": [
-        "Conjunto de características das zonas rurais",
-        "Expansão das cidades",
-        "Apenas agricultura"
+        "Interconexão entre mobilidade física e mobilidade digital",
+        "Redução da circulação global",
+        "Imobilidade total"
       ],
       "correta": 0,
-      "explicacao": "Ruralidade envolve modos de vida e organização próprios. (Fonte: IADE)"
+      "explicacao": "Os autores mostram que mobilidade envolve fluxos de pessoas, dados e objetos. (Fonte: Urry & Sheller, 2006)"
     },
     {
-      "curiosidade": "A densidade populacional varia muito entre regiões.",
-      "pergunta": "O que é densidade populacional?",
+      "curiosidade": "O espaço digital cria novas formas de presença.",
+      "pergunta": "Segundo Paul Virilio, qual o impacto da tecnologia na perceção do espaço?",
       "opcoes": [
-        "Número de habitantes por área",
-        "Número de empregos disponíveis",
-        "Quantidade de recursos naturais"
+        "Cria 'telepresença', permitindo estar à distância em tempo real",
+        "Elimina completamente a comunicação",
+        "Torna o espaço físico irrelevante"
       ],
       "correta": 0,
-      "explicacao": "É uma medida demográfica fundamental. (Fonte: IADE)"
+      "explicacao": "Virilio analisa como tecnologias aceleram perceção e presença. (Fonte: Virilio, *The Information Bomb*, 1998)"
     },
     {
-      "curiosidade": "A metropolização cria grandes centros urbanos.",
-      "pergunta": "O que é metropolização?",
+      "curiosidade": "A vigilância digital reorganiza espaços públicos e privados.",
+      "pergunta": "Segundo Michel Foucault, como a vigilância digital transforma o espaço social?",
       "opcoes": [
-        "Crescimento e concentração urbana",
-        "Expansão rural",
-        "Desindustrialização"
+        "Cria espaços disciplinados através de monitorização contínua",
+        "Reduz completamente o controlo social",
+        "Elimina relações de poder"
       ],
       "correta": 0,
-      "explicacao": "Metropolização envolve grandes cidades e áreas metropolitanas. (Fonte: IADE)"
+      "explicacao": "A vigilância digital amplia mecanismos panópticos. (Fonte: Foucault, *Surveiller et Punir*, 1975)"
     },
     {
-      "curiosidade": "A segregação espacial reflete desigualdades sociais.",
-      "pergunta": "O que é segregação espacial?",
+      "curiosidade": "A tecnologia cria novos tipos de lugares.",
+      "pergunta": "Segundo Marc Augé, como os 'não-lugares' se expandem na era digital?",
       "opcoes": [
-        "Separação de grupos sociais no espaço",
-        "Mistura total de populações",
-        "Apenas divisão administrativa"
+        "Espaços de passagem tornam-se ainda mais mediados por tecnologia",
+        "Desaparecem completamente",
+        "Transformam-se em espaços comunitários tradicionais"
       ],
       "correta": 0,
-      "explicacao": "Segregação pode ser económica, étnica ou cultural. (Fonte: IADE)"
+      "explicacao": "Augé descreve não-lugares como aeroportos, centros comerciais e agora plataformas digitais. (Fonte: Augé, *Non-Lieux*, 1992)"
     },
     {
-      "curiosidade": "A gentrificação altera bairros urbanos.",
-      "pergunta": "O que é gentrificação?",
+      "curiosidade": "O tempo social acelera com a tecnologia.",
+      "pergunta": "Segundo Hartmut Rosa, o que caracteriza a 'aceleração social'?",
       "opcoes": [
-        "Transformação urbana que expulsa populações vulneráveis",
-        "Construção de zonas industriais",
-        "Expansão rural"
+        "Aumento constante da velocidade tecnológica, social e cultural",
+        "Estagnação temporal",
+        "Redução da inovação"
       ],
       "correta": 0,
-      "explicacao": "A gentrificação aumenta preços e altera a composição social. (Fonte: IADE)"
+      "explicacao": "Rosa argumenta que a modernidade digital intensifica ritmos sociais. (Fonte: Rosa, *Social Acceleration*, 2013)"
     },
     {
-      "curiosidade": "O espaço público é acessível a todos.",
-      "pergunta": "O que é espaço público?",
+      "curiosidade": "A IA influencia decisões espaciais e urbanas.",
+      "pergunta": "Segundo Rob Kitchin, qual o impacto das 'smart cities'?",
       "opcoes": [
-        "Local acessível a todos",
-        "Local privado",
-        "Apenas espaços comerciais"
+        "Uso de dados e algoritmos para governar e organizar o espaço urbano",
+        "Eliminação da infraestrutura física",
+        "Fim da participação cidadã"
       ],
       "correta": 0,
-      "explicacao": "Praças, ruas e parques são exemplos de espaço público. (Fonte: IADE)"
+      "explicacao": "Kitchin analisa cidades inteligentes como sistemas sociotécnicos. (Fonte: Kitchin, *The Data Revolution*, 2014)"
     },
     {
-      "curiosidade": "O espaço privado tem acesso restrito.",
-      "pergunta": "O que é espaço privado?",
+      "curiosidade": "O espaço digital cria novas formas de exclusão.",
+      "pergunta": "Segundo Mark Graham, o que caracteriza a 'geografia digital'?",
       "opcoes": [
-        "Local de acesso restrito",
-        "Local aberto a todos",
-        "Apenas espaços naturais"
+        "Desigualdades no acesso e visibilidade online",
+        "Uniformidade total do espaço digital",
+        "Ausência de fronteiras digitais"
       ],
       "correta": 0,
-      "explicacao": "Casas, empresas e propriedades privadas são exemplos. (Fonte: IADE)"
+      "explicacao": "Graham mostra que o espaço digital reproduz desigualdades geográficas. (Fonte: Graham, 2013)"
     },
     {
-      "curiosidade": "O tempo histórico é interpretado pelos historiadores.",
-      "pergunta": "O que é tempo histórico?",
+      "curiosidade": "A tecnologia redefine fronteiras simbólicas.",
+      "pergunta": "Segundo Doreen Massey, como o espaço é transformado pela tecnologia?",
       "opcoes": [
-        "Interpretação do tempo pelos historiadores",
-        "Tempo medido por relógios",
-        "Tempo biológico"
+        "Torna-se relacional, múltiplo e interconectado por redes digitais",
+        "Fica completamente estático",
+        "Perde toda a sua dimensão social"
       ],
       "correta": 0,
-      "explicacao": "O tempo histórico é construído a partir de acontecimentos significativos. (Fonte: IADE)"
+      "explicacao": "Massey defende que o espaço é um conjunto de relações em fluxo. (Fonte: Massey, *For Space*, 2005)"
     },
     {
-      "curiosidade": "A cronologia organiza acontecimentos no tempo.",
-      "pergunta": "O que é cronologia?",
+      "curiosidade": "A tecnologia cria novas formas de mobilidade simbólica.",
+      "pergunta": "Segundo Zygmunt Bauman, como a tecnologia afeta a experiência do tempo?",
       "opcoes": [
-        "Sequência temporal de acontecimentos",
-        "Estudo de mapas",
-        "Medida do tempo físico"
+        "Torna o tempo mais fragmentado e instantâneo",
+        "Estabiliza ritmos sociais",
+        "Elimina a sensação de urgência"
       ],
       "correta": 0,
-      "explicacao": "Cronologia organiza eventos em ordem temporal. (Fonte: IADE)"
+      "explicacao": "Bauman descreve a instantaneidade digital como marca da modernidade líquida. (Fonte: Bauman, *Liquid Times*, 2007)"
     },
     {
-      "curiosidade": "A simultaneidade ocorre quando eventos acontecem ao mesmo tempo.",
-      "pergunta": "O que é simultaneidade?",
+      "curiosidade": "A tecnologia cria novas formas de territorialidade.",
+      "pergunta": "Segundo Yuk Hui, o que significa 'cosmotécnica'?",
       "opcoes": [
-        "Acontecimentos que ocorrem ao mesmo tempo",
-        "Acontecimentos que ocorrem em sequência",
-        "Apenas eventos históricos"
+        "A relação entre tecnologia e cosmologias culturais que moldam o espaço",
+        "A universalidade da técnica",
+        "A separação total entre cultura e tecnologia"
       ],
       "correta": 0,
-      "explicacao": "Simultaneidade é fundamental para compreender relações históricas. (Fonte: IADE)"
+      "explicacao": "Hui argumenta que cada cultura produz a sua própria relação com tecnologia e espaço. (Fonte: Hui, *The Question Concerning Technology in China*, 2016)"
     },
     {
-      "curiosidade": "A sucessão temporal organiza eventos em sequência.",
-      "pergunta": "O que é sucessão temporal?",
+      "curiosidade": "A tecnologia redefine o que significa estar presente.",
+      "pergunta": "Segundo Joshua Meyrowitz, como os media eletrónicos transformam o espaço social?",
       "opcoes": [
-        "Ordem dos acontecimentos no tempo",
-        "Eventos simultâneos",
-        "Eventos sem relação"
+        "Dissolvem fronteiras entre espaços públicos e privados",
+        "Reforçam separações rígidas",
+        "Eliminam totalmente a comunicação"
       ],
       "correta": 0,
-      "explicacao": "Sucessão temporal ajuda a compreender causas e consequências. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "O espaço é sempre socialmente construído.",
-      "pergunta": "Por que o espaço é considerado uma construção social?",
-      "opcoes": [
-        "Porque ganha significado através das práticas humanas",
-        "Porque existe naturalmente",
-        "Porque é apenas físico"
-      ],
-      "correta": 0,
-      "explicacao": "O espaço adquire sentido através das relações sociais. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "O tempo e o espaço influenciam identidades.",
-      "pergunta": "Como o tempo e o espaço influenciam a identidade?",
-      "opcoes": [
-        "Através das experiências vividas em contextos específicos",
-        "Apenas pela genética",
-        "Não influenciam"
-      ],
-      "correta": 0,
-      "explicacao": "Identidades são moldadas por contextos históricos e espaciais. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A mobilidade pendular é comum nas cidades.",
-      "pergunta": "O que é mobilidade pendular?",
-      "opcoes": [
-        "Deslocação diária entre casa e trabalho",
-        "Mudança permanente de país",
-        "Viagens de lazer"
-      ],
-      "correta": 0,
-      "explicacao": "É típica de áreas metropolitanas e grandes cidades. (Fonte: IADE)"
+      "explicacao": "Meyrowitz mostra que media eletrónicos alteram comportamentos espaciais. (Fonte: Meyrowitz, *No Sense of Place*, 1985)"
     }
   ]
 }

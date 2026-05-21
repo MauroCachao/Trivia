@@ -1,225 +1,170 @@
 {
-  "categoria": "GEOPOLÍTICA, SEGURANÇA E SOCIEDADE DO RISCO",
+  "categoria": "GEOPOLÍTICA, SEGURANÇA E SOCIEDADE DO RISCO — Tecnologia",
   "perguntas": [
     {
-      "curiosidade": "A geopolítica estuda relações de poder entre Estados.",
-      "pergunta": "O que é geopolítica?",
+      "curiosidade": "A geopolítica digital tornou-se central nas disputas entre Estados.",
+      "pergunta": "Segundo Manuel Castells, o que caracteriza o poder na era da informação?",
       "opcoes": [
-        "Estudo das relações de poder no espaço internacional",
-        "Estudo da cultura de um país",
-        "Análise de fenómenos naturais"
+        "Capacidade de controlar fluxos de informação e redes digitais",
+        "Domínio exclusivo de territórios físicos",
+        "Supremacia militar tradicional"
       ],
       "correta": 0,
-      "explicacao": "A geopolítica analisa como território, poder e interesses influenciam relações internacionais. (Fonte: IADE)"
+      "explicacao": "Castells argumenta que o poder contemporâneo depende do controlo das redes informacionais. (Fonte: Castells, *The Power of Identity*, 1997)"
     },
     {
-      "curiosidade": "A soberania é um princípio fundamental do Estado moderno.",
-      "pergunta": "O que é soberania?",
+      "curiosidade": "A cibersegurança tornou-se uma dimensão essencial da soberania.",
+      "pergunta": "Segundo Joseph Nye, o que caracteriza o 'ciberpoder'?",
       "opcoes": [
-        "Poder supremo de um Estado sobre o seu território",
-        "A capacidade de criar empresas",
-        "A influência cultural de um país"
+        "Capacidade de influenciar através de normas, infraestruturas e ataques digitais",
+        "Apenas força militar convencional",
+        "Isolamento tecnológico"
       ],
       "correta": 0,
-      "explicacao": "Soberania significa autoridade máxima dentro de um território. (Fonte: IADE)"
+      "explicacao": "Nye defende que o poder digital combina hard power, soft power e normas internacionais. (Fonte: Nye, *The Future of Power*, 2011)"
     },
     {
-      "curiosidade": "As fronteiras podem ser políticas, culturais ou naturais.",
-      "pergunta": "O que é uma fronteira política?",
+      "curiosidade": "A guerra híbrida combina estratégias militares e tecnológicas.",
+      "pergunta": "Segundo Frank Hoffman, o que caracteriza a guerra híbrida?",
       "opcoes": [
-        "Limite territorial entre Estados",
-        "Uma barreira natural",
-        "Uma zona de comércio"
+        "Combinação de operações militares, ciberataques e manipulação informacional",
+        "Confronto direto entre exércitos",
+        "Apenas espionagem tradicional"
       ],
       "correta": 0,
-      "explicacao": "Fronteiras políticas delimitam territórios estatais. (Fonte: IADE)"
+      "explicacao": "Hoffman descreve conflitos que misturam meios convencionais e digitais. (Fonte: Hoffman, 2007)"
     },
     {
-      "curiosidade": "A ONU foi criada após a Segunda Guerra Mundial.",
-      "pergunta": "Qual é o principal objetivo da ONU?",
+      "curiosidade": "A desinformação tornou-se arma geopolítica.",
+      "pergunta": "Segundo Peter Pomerantsev, qual o papel da desinformação na geopolítica digital?",
       "opcoes": [
-        "Promover paz e cooperação internacional",
-        "Criar blocos militares",
-        "Controlar economias nacionais"
+        "Desestabilizar sociedades através de narrativas manipuladas",
+        "Promover transparência internacional",
+        "Reduzir tensões entre Estados"
       ],
       "correta": 0,
-      "explicacao": "A ONU visa manter a paz e promover direitos humanos. (Fonte: IADE)"
+      "explicacao": "Pomerantsev analisa como campanhas digitais moldam perceções políticas. (Fonte: Pomerantsev, *Nothing Is True and Everything Is Possible*, 2014)"
     },
     {
-      "curiosidade": "A OTAN é uma aliança militar criada em 1949.",
-      "pergunta": "O que é a OTAN?",
+      "curiosidade": "A vigilância digital tornou-se instrumento de poder estatal.",
+      "pergunta": "Segundo Shoshana Zuboff, como o capitalismo de vigilância afeta a segurança?",
       "opcoes": [
-        "Uma aliança militar de defesa coletiva",
-        "Uma organização cultural",
-        "Um bloco económico"
+        "Cria infraestruturas de monitorização que podem ser usadas por Estados e empresas",
+        "Elimina riscos digitais",
+        "Reduz recolha de dados"
       ],
       "correta": 0,
-      "explicacao": "A OTAN reúne países que se comprometem com defesa mútua. (Fonte: IADE)"
+      "explicacao": "Zuboff mostra como dados comportamentais se tornam recursos estratégicos. (Fonte: Zuboff, 2019)"
     },
     {
-      "curiosidade": "A Guerra Fria foi marcada pela bipolaridade.",
-      "pergunta": "O que caracteriza a Guerra Fria?",
+      "curiosidade": "A IA militar redefine estratégias de defesa.",
+      "pergunta": "Segundo Paul Scharre, qual o impacto dos sistemas autónomos na guerra?",
       "opcoes": [
-        "Conflito ideológico entre EUA e URSS sem confronto direto",
-        "Guerra mundial com batalhas em vários países",
-        "Conflito apenas económico"
+        "Aceleram decisões militares e criam novos riscos éticos e estratégicos",
+        "Eliminam completamente o erro humano",
+        "Tornam guerras impossíveis"
       ],
       "correta": 0,
-      "explicacao": "A Guerra Fria opôs capitalismo e socialismo num conflito indireto. (Fonte: IADE)"
+      "explicacao": "Scharre analisa armas autónomas e seus riscos. (Fonte: Scharre, *Army of None*, 2018)"
     },
     {
-      "curiosidade": "A sociedade do risco foi teorizada por Ulrich Beck.",
-      "pergunta": "O que é sociedade do risco?",
+      "curiosidade": "A infraestrutura digital tornou-se alvo estratégico.",
+      "pergunta": "Segundo Thomas Rid, o que caracteriza o ciberconflito moderno?",
       "opcoes": [
-        "Sociedade marcada por riscos globais e imprevisíveis",
-        "Sociedade sem ameaças",
-        "Sociedade baseada apenas na agricultura"
+        "Operações persistentes que visam infraestruturas e perceções públicas",
+        "Ataques exclusivamente militares",
+        "Conflitos sem impacto social"
       ],
       "correta": 0,
-      "explicacao": "A sociedade do risco enfrenta ameaças tecnológicas, ambientais e globais. (Fonte: IADE)"
+      "explicacao": "Rid descreve ciberataques como instrumentos políticos. (Fonte: Rid, *Cyber War Will Not Take Place*, 2013)"
     },
     {
-      "curiosidade": "Os riscos globais não respeitam fronteiras.",
-      "pergunta": "O que caracteriza um risco global?",
+      "curiosidade": "A geopolítica dos dados tornou-se tão importante quanto a dos territórios.",
+      "pergunta": "Segundo Nick Srnicek, o que caracteriza o capitalismo de plataforma?",
       "opcoes": [
-        "Afeta vários países e é difícil de controlar",
-        "Afeta apenas uma cidade",
-        "É sempre previsível"
+        "Dependência de extração massiva de dados e controlo de infraestruturas digitais",
+        "Produção industrial tradicional",
+        "Economia sem mediação tecnológica"
       ],
       "correta": 0,
-      "explicacao": "Riscos globais incluem pandemias, terrorismo e alterações climáticas. (Fonte: IADE)"
+      "explicacao": "Srnicek analisa plataformas como novos atores geopolíticos. (Fonte: Srnicek, *Platform Capitalism*, 2016)"
     },
     {
-      "curiosidade": "O terrorismo é um fenómeno político e social.",
-      "pergunta": "O que é terrorismo?",
+      "curiosidade": "A soberania digital tornou-se prioridade global.",
+      "pergunta": "Segundo a União Europeia, o que significa soberania digital?",
       "opcoes": [
-        "Uso de violência para fins políticos",
-        "Conflito entre empresas",
-        "Apenas vandalismo"
+        "Capacidade de controlar infraestruturas, dados e tecnologias críticas",
+        "Isolamento tecnológico total",
+        "Dependência de plataformas estrangeiras"
       ],
       "correta": 0,
-      "explicacao": "Terrorismo utiliza violência para gerar medo e pressão política. (Fonte: IADE)"
+      "explicacao": "A UE defende autonomia tecnológica como questão estratégica. (Fonte: European Commission, 2020)"
     },
     {
-      "curiosidade": "A cibersegurança tornou-se essencial na era digital.",
-      "pergunta": "O que é cibersegurança?",
+      "curiosidade": "A guerra informacional tornou-se central em conflitos modernos.",
+      "pergunta": "Segundo RAND Corporation, o que caracteriza operações de influência digital?",
       "opcoes": [
-        "Proteção contra ataques digitais",
-        "Proteção de fronteiras físicas",
-        "Apenas segurança militar"
+        "Manipulação de perceções através de redes sociais e algoritmos",
+        "Apenas propaganda impressa",
+        "Comunicação estatal transparente"
       ],
       "correta": 0,
-      "explicacao": "Cibersegurança protege sistemas, dados e infraestruturas digitais. (Fonte: IADE)"
+      "explicacao": "A RAND analisa campanhas digitais como armas estratégicas. (Fonte: RAND, 2018)"
     },
     {
-      "curiosidade": "A espionagem existe desde as primeiras civilizações.",
-      "pergunta": "O que é espionagem?",
+      "curiosidade": "A geopolítica do 5G envolve disputas entre grandes potências.",
+      "pergunta": "Segundo Graham Allison, por que o 5G é estratégico?",
       "opcoes": [
-        "Obtenção secreta de informações estratégicas",
-        "Troca comercial entre países",
-        "Apenas vigilância policial"
+        "Define infraestruturas críticas e vantagem tecnológica entre potências",
+        "É apenas uma melhoria estética",
+        "Não tem impacto geopolítico"
       ],
       "correta": 0,
-      "explicacao": "Espionagem envolve recolha clandestina de informação. (Fonte: IADE)"
+      "explicacao": "Allison analisa competição tecnológica como nova corrida hegemónica. (Fonte: Allison, 2017)"
     },
     {
-      "curiosidade": "Sanções internacionais são ferramentas de pressão política.",
-      "pergunta": "O que são sanções internacionais?",
+      "curiosidade": "A ciberespionagem tornou-se prática comum entre Estados.",
+      "pergunta": "Segundo Ben Buchanan, o que caracteriza a ciberespionagem moderna?",
       "opcoes": [
-        "Medidas punitivas aplicadas a um Estado",
-        "Acordos de paz",
-        "Ajuda humanitária"
+        "Operações contínuas que exploram vulnerabilidades digitais",
+        "Apenas espionagem presencial",
+        "Atividades sem impacto estratégico"
       ],
       "correta": 0,
-      "explicacao": "Sanções podem ser económicas, diplomáticas ou militares. (Fonte: IADE)"
+      "explicacao": "Buchanan mostra como Estados usam ciberespionagem para vantagem estratégica. (Fonte: Buchanan, *The Cybersecurity Dilemma*, 2017)"
     },
     {
-      "curiosidade": "Embargos económicos limitam trocas comerciais.",
-      "pergunta": "O que é um embargo económico?",
+      "curiosidade": "A geopolítica da IA envolve competição global.",
+      "pergunta": "Segundo Kai-Fu Lee, qual o principal fator da corrida global pela IA?",
       "opcoes": [
-        "Restrição de comércio com um país",
-        "Acordo de livre comércio",
-        "Ajuda financeira"
+        "Domínio de dados, talento e capacidade computacional",
+        "Apenas investimento militar",
+        "Redução da inovação tecnológica"
       ],
       "correta": 0,
-      "explicacao": "Embargos são usados como forma de pressão política. (Fonte: IADE)"
+      "explicacao": "Lee analisa competição entre EUA e China pela liderança em IA. (Fonte: Lee, *AI Superpowers*, 2018)"
     },
     {
-      "curiosidade": "Soft power é poder baseado em influência cultural.",
-      "pergunta": "O que é soft power?",
+      "curiosidade": "A infraestrutura digital tornou-se vulnerável a ataques.",
+      "pergunta": "Segundo o World Economic Forum, qual é um dos maiores riscos globais atuais?",
       "opcoes": [
-        "Influência baseada em cultura e diplomacia",
-        "Uso de força militar",
-        "Pressão económica"
+        "Falhas sistémicas em infraestruturas digitais críticas",
+        "Redução da conectividade global",
+        "Fim da automação"
       ],
       "correta": 0,
-      "explicacao": "Soft power influencia através de cultura, valores e diplomacia. (Fonte: IADE)"
+      "explicacao": "O WEF identifica ciberataques como riscos globais de alto impacto. (Fonte: WEF, *Global Risks Report*, 2024)"
     },
     {
-      "curiosidade": "Hard power envolve força militar ou económica.",
-      "pergunta": "O que é hard power?",
+      "curiosidade": "A geopolítica contemporânea é profundamente moldada por tecnologia.",
+      "pergunta": "Segundo Henry Farrell e Abraham Newman, o que caracteriza o 'weaponized interdependence'?",
       "opcoes": [
-        "Uso de força militar ou económica",
-        "Influência cultural",
-        "Apenas negociações diplomáticas"
+        "Uso de redes digitais globais como instrumentos de coerção geopolítica",
+        "Desconexão total entre Estados",
+        "Neutralidade das infraestruturas tecnológicas"
       ],
       "correta": 0,
-      "explicacao": "Hard power utiliza meios coercivos. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A multipolaridade caracteriza o mundo atual.",
-      "pergunta": "O que é multipolaridade?",
-      "opcoes": [
-        "Existência de vários centros de poder",
-        "Domínio de um único país",
-        "Divisão do mundo em dois blocos"
-      ],
-      "correta": 0,
-      "explicacao": "Multipolaridade envolve vários Estados influentes. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A unipolaridade ocorreu após a Guerra Fria.",
-      "pergunta": "O que é unipolaridade?",
-      "opcoes": [
-        "Predomínio de um único Estado",
-        "Equilíbrio entre várias potências",
-        "Divisão em dois blocos"
-      ],
-      "correta": 0,
-      "explicacao": "Após 1991, os EUA tornaram-se a principal potência global. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A bipolaridade marcou a Guerra Fria.",
-      "pergunta": "O que é bipolaridade?",
-      "opcoes": [
-        "Divisão do sistema internacional em dois blocos",
-        "Domínio de um único país",
-        "Equilíbrio entre várias potências"
-      ],
-      "correta": 0,
-      "explicacao": "Bipolaridade opôs EUA e URSS. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "Os conflitos armados podem ser internos ou externos.",
-      "pergunta": "O que é um conflito armado?",
-      "opcoes": [
-        "Enfrentamento violento entre grupos ou Estados",
-        "Debate político",
-        "Conflito económico"
-      ],
-      "correta": 0,
-      "explicacao": "Conflitos armados envolvem uso de força militar. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A segurança nacional envolve proteção interna e externa.",
-      "pergunta": "O que é segurança nacional?",
-      "opcoes": [
-        "Proteção do Estado contra ameaças internas e externas",
-        "Apenas defesa militar",
-        "Apenas vigilância policial"
-      ],
-      "correta": 0,
-      "explicacao": "Inclui defesa, inteligência, diplomacia e estabilidade interna. (Fonte: IADE)"
+      "explicacao": "Os autores mostram como Estados usam redes digitais para exercer poder. (Fonte: Farrell & Newman, 2019)"
     }
   ]
 }

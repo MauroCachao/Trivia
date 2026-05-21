@@ -29,7 +29,7 @@
             <label style="margin-top:10px;">Avatar:</label>
 
             <div class="avatar-select">
-                {% for a in range(1, 13) %}
+                {% for a in range(1, 7) %}
                 <label class="avatar-option">
                     <input type="radio" name="avatar{{ i }}" value="avatar{{ a }}.png" required>
                     <img src="{{ url_for('static', filename='avatars/avatar' ~ a ~ '.png') }}"

@@ -1,225 +1,170 @@
 {
-  "categoria": "A ALTERIDADE DOS INDIVÍDUOS E DAS ORGANIZAÇÕES MODERNAS",
+  "categoria": "A ALTERIDADE DOS INDIVÍDUOS E DAS ORGANIZAÇÕES MODERNAS — Tecnologia",
   "perguntas": [
     {
-      "curiosidade": "Alteridade significa reconhecer o outro como diferente.",
-      "pergunta": "O que é alteridade?",
+      "curiosidade": "A tecnologia cria novas formas de encontro com o Outro.",
+      "pergunta": "Segundo Zygmunt Bauman, como a tecnologia influencia a relação com a alteridade?",
       "opcoes": [
-        "Reconhecimento do outro como diferente",
-        "Imposição da própria cultura",
-        "Eliminação das diferenças"
+        "Facilita encontros superficiais e relações descartáveis",
+        "Elimina completamente a diferença",
+        "Torna todas as relações profundas e duradouras"
       ],
       "correta": 0,
-      "explicacao": "Alteridade implica compreender e respeitar a diferença. (Fonte: IADE)"
+      "explicacao": "Bauman argumenta que a modernidade líquida, intensificada pela tecnologia, produz vínculos frágeis e relações efémeras. (Fonte: Bauman, *Liquid Modernity*, 2000)"
     },
     {
-      "curiosidade": "A identidade é construída socialmente.",
-      "pergunta": "O que é identidade?",
+      "curiosidade": "A IA pode reproduzir preconceitos sociais.",
+      "pergunta": "Segundo Safiya Noble, como algoritmos lidam com a alteridade?",
       "opcoes": [
-        "Conjunto de características que definem um indivíduo",
-        "Apenas o nome próprio",
-        "Apenas a nacionalidade"
+        "Podem reforçar estereótipos e discriminações contra grupos marginalizados",
+        "Eliminam todos os preconceitos",
+        "Funcionam sempre de forma neutra"
       ],
       "correta": 0,
-      "explicacao": "Identidade envolve valores, crenças e pertenças sociais. (Fonte: IADE)"
+      "explicacao": "Noble mostra que algoritmos refletem desigualdades sociais existentes. (Fonte: Noble, *Algorithms of Oppression*, 2018)"
     },
     {
-      "curiosidade": "O preconceito é um julgamento prévio e infundado.",
-      "pergunta": "O que é preconceito?",
+      "curiosidade": "As redes sociais moldam perceções sobre grupos diferentes.",
+      "pergunta": "Segundo danah boyd, como a tecnologia influencia a perceção do Outro?",
       "opcoes": [
-        "Julgamento negativo sem fundamento",
-        "Opinião baseada em factos",
-        "Apenas uma crítica"
+        "Amplifica bolhas informacionais que limitam o contacto com a diferença",
+        "Promove sempre diversidade de perspetivas",
+        "Elimina conflitos culturais"
       ],
       "correta": 0,
-      "explicacao": "Preconceito é uma atitude negativa baseada em estereótipos. (Fonte: IADE)"
+      "explicacao": "boyd analisa como algoritmos reforçam homofilia e isolamento cognitivo. (Fonte: boyd, *It's Complicated*, 2014)"
     },
     {
-      "curiosidade": "A discriminação é a prática que resulta do preconceito.",
-      "pergunta": "O que é discriminação?",
+      "curiosidade": "A alteridade digital envolve interação com humanos e máquinas.",
+      "pergunta": "Segundo Sherry Turkle, como os chatbots e IA afetam a relação com o Outro?",
       "opcoes": [
-        "Tratamento desigual baseado em preconceito",
-        "Discussão entre pessoas",
-        "Diferença de opinião"
+        "Criam 'quase-relações' que substituem parcialmente interações humanas",
+        "Eliminam a necessidade de comunicação",
+        "Tornam relações humanas mais profundas"
       ],
       "correta": 0,
-      "explicacao": "Discriminação é ação que exclui ou prejudica grupos. (Fonte: IADE)"
+      "explicacao": "Turkle mostra que tecnologias criam intimidades artificiais. (Fonte: Turkle, *Alone Together*, 2011)"
     },
     {
-      "curiosidade": "Os estereótipos simplificam grupos sociais.",
-      "pergunta": "O que é um estereótipo?",
+      "curiosidade": "A alteridade organizacional é moldada por sistemas digitais.",
+      "pergunta": "Segundo Manuel Castells, como as organizações em rede lidam com a diferença?",
       "opcoes": [
-        "Generalização simplificada sobre um grupo",
-        "Opinião individual neutra",
-        "Uma lei social"
+        "Integram diversidade através de fluxos digitais e estruturas flexíveis",
+        "Eliminam qualquer forma de diversidade",
+        "Funcionam apenas com hierarquias rígidas"
       ],
       "correta": 0,
-      "explicacao": "Estereótipos reduzem grupos a características simplistas. (Fonte: IADE)"
+      "explicacao": "Castells descreve organizações em rede como adaptáveis e multiculturais. (Fonte: Castells, 1996)"
     },
     {
-      "curiosidade": "A diversidade é uma característica das sociedades modernas.",
-      "pergunta": "O que é diversidade?",
+      "curiosidade": "A vigilância digital afeta grupos vulneráveis.",
+      "pergunta": "Segundo David Lyon, como a vigilância tecnológica impacta a alteridade?",
       "opcoes": [
-        "Variedade de identidades e características",
-        "Uniformidade cultural",
-        "Eliminação de diferenças"
+        "Intensifica controlo sobre minorias e populações marginalizadas",
+        "Reduz desigualdades sociais",
+        "Funciona sempre de forma igualitária"
       ],
       "correta": 0,
-      "explicacao": "Diversidade inclui diferenças culturais, étnicas, religiosas e sociais. (Fonte: IADE)"
+      "explicacao": "Lyon mostra que vigilância reforça desigualdades. (Fonte: Lyon, *Surveillance Society*, 2001)"
     },
     {
-      "curiosidade": "A inclusão promove igualdade de oportunidades.",
-      "pergunta": "O que é inclusão?",
+      "curiosidade": "A tecnologia redefine fronteiras culturais.",
+      "pergunta": "Segundo Homi Bhabha, como o digital influencia o 'entre-lugar' cultural?",
       "opcoes": [
-        "Garantia de participação igualitária",
-        "Separação de grupos",
-        "Competição entre indivíduos"
+        "Amplifica espaços híbridos onde identidades se negociam",
+        "Elimina hibridismos culturais",
+        "Torna culturas totalmente homogéneas"
       ],
       "correta": 0,
-      "explicacao": "Inclusão assegura acesso a direitos e oportunidades. (Fonte: IADE)"
+      "explicacao": "Bhabha descreve identidades híbridas, intensificadas pelo digital. (Fonte: Bhabha, *The Location of Culture*, 1994)"
     },
     {
-      "curiosidade": "A empatia facilita relações sociais positivas.",
-      "pergunta": "O que é empatia?",
+      "curiosidade": "A alteridade é mediada por algoritmos de recomendação.",
+      "pergunta": "Segundo Eli Pariser, como as 'filter bubbles' afetam a alteridade?",
       "opcoes": [
-        "Capacidade de compreender o outro",
-        "Apenas simpatia",
-        "Apenas comunicação verbal"
+        "Limitam exposição a perspetivas diferentes",
+        "Promovem diversidade informacional",
+        "Eliminam polarização"
       ],
       "correta": 0,
-      "explicacao": "Empatia envolve compreender emoções e perspetivas alheias. (Fonte: IADE)"
+      "explicacao": "Pariser mostra que algoritmos filtram conteúdos e reduzem diversidade. (Fonte: Pariser, *The Filter Bubble*, 2011)"
     },
     {
-      "curiosidade": "A intolerância rejeita diferenças culturais.",
-      "pergunta": "O que é intolerância?",
+      "curiosidade": "A tecnologia cria novas formas de exclusão.",
+      "pergunta": "Segundo Mark Warschauer, o que caracteriza a exclusão digital?",
       "opcoes": [
-        "Recusa em aceitar diferenças",
-        "Discussão saudável",
-        "Mudança de opinião"
+        "Desigualdade no acesso e uso significativo da tecnologia",
+        "Apenas falta de dispositivos",
+        "Ausência de redes sociais"
       ],
       "correta": 0,
-      "explicacao": "Intolerância impede convivência e respeito mútuo. (Fonte: IADE)"
+      "explicacao": "Warschauer destaca desigualdades estruturais no uso da tecnologia. (Fonte: Warschauer, 2003)"
     },
     {
-      "curiosidade": "A xenofobia é hostilidade contra estrangeiros.",
-      "pergunta": "O que é xenofobia?",
+      "curiosidade": "A alteridade organizacional é influenciada por IA.",
+      "pergunta": "Segundo Kate Crawford, como a IA afeta decisões organizacionais?",
       "opcoes": [
-        "Hostilidade contra estrangeiros",
-        "Interesse por outras culturas",
-        "Viagens internacionais"
+        "Pode reproduzir preconceitos e discriminações institucionais",
+        "Elimina vieses humanos",
+        "Garante decisões neutras"
       ],
       "correta": 0,
-      "explicacao": "Xenofobia é rejeição de pessoas de outros países. (Fonte: IADE)"
+      "explicacao": "Crawford mostra que IA reflete estruturas sociais. (Fonte: Crawford, *Atlas of AI*, 2021)"
     },
     {
-      "curiosidade": "O racismo baseia-se na ideia falsa de superioridade racial.",
-      "pergunta": "O que é racismo?",
+      "curiosidade": "A tecnologia redefine empatia e reconhecimento.",
+      "pergunta": "Segundo Axel Honneth, como o digital afeta lutas por reconhecimento?",
       "opcoes": [
-        "Discriminação baseada em raça",
-        "Discussão política",
-        "Diferença de opinião"
+        "Cria novos espaços de visibilidade e também novas formas de desrespeito",
+        "Elimina conflitos sociais",
+        "Garante reconhecimento universal"
       ],
       "correta": 0,
-      "explicacao": "Racismo envolve práticas e crenças discriminatórias. (Fonte: IADE)"
+      "explicacao": "Honneth analisa reconhecimento como base da identidade. (Fonte: Honneth, *The Struggle for Recognition*, 1995)"
     },
     {
-      "curiosidade": "O sexismo discrimina com base no género.",
-      "pergunta": "O que é sexismo?",
+      "curiosidade": "A alteridade digital envolve interação com inteligências não humanas.",
+      "pergunta": "Segundo Donna Haraway, o que caracteriza o 'ciborgue' como figura da alteridade?",
       "opcoes": [
-        "Discriminação baseada no género",
-        "Discussão entre casais",
-        "Preferência pessoal"
+        "Hibridismo entre humano e máquina que desafia fronteiras identitárias",
+        "Retorno ao essencialismo biológico",
+        "Separação rígida entre humano e tecnologia"
       ],
       "correta": 0,
-      "explicacao": "Sexismo afeta oportunidades e direitos de género. (Fonte: IADE)"
+      "explicacao": "Haraway usa o ciborgue como metáfora para identidades híbridas. (Fonte: Haraway, *A Cyborg Manifesto*, 1985)"
     },
     {
-      "curiosidade": "O bullying envolve agressão repetida.",
-      "pergunta": "O que é bullying?",
+      "curiosidade": "A alteridade é moldada por media digitais.",
+      "pergunta": "Segundo Marshall McLuhan, como os media influenciam perceções do Outro?",
       "opcoes": [
-        "Agressão repetida contra alguém vulnerável",
-        "Discussão entre amigos",
-        "Competição saudável"
+        "Criam 'aldeias globais' que aproximam e distorcem simultaneamente a alteridade",
+        "Eliminam diferenças culturais",
+        "Tornam comunicação exclusivamente local"
       ],
       "correta": 0,
-      "explicacao": "Bullying inclui agressão física, verbal ou psicológica. (Fonte: IADE)"
+      "explicacao": "McLuhan argumenta que media moldam perceção e proximidade simbólica. (Fonte: McLuhan, *Understanding Media*, 1964)"
     },
     {
-      "curiosidade": "O assédio moral ocorre em contextos profissionais.",
-      "pergunta": "O que é assédio moral?",
+      "curiosidade": "A tecnologia cria novas formas de alteridade laboral.",
+      "pergunta": "Segundo Richard Sennett, como o trabalho digital afeta relações humanas?",
       "opcoes": [
-        "Humilhação repetida no trabalho",
-        "Crítica construtiva",
-        "Conversa informal"
+        "Fragmenta vínculos e reduz estabilidade, dificultando reconhecimento mútuo",
+        "Fortalece relações duradouras",
+        "Elimina desigualdades profissionais"
       ],
       "correta": 0,
-      "explicacao": "Assédio moral prejudica a saúde psicológica e profissional. (Fonte: IADE)"
+      "explicacao": "Sennett analisa como flexibilização e tecnologia afetam vínculos sociais. (Fonte: Sennett, *The Corrosion of Character*, 1998)"
     },
     {
-      "curiosidade": "As organizações têm culturas próprias.",
-      "pergunta": "O que é cultura organizacional?",
+      "curiosidade": "A alteridade é influenciada por sistemas de classificação digital.",
+      "pergunta": "Segundo Antoinette Rouvroy, o que caracteriza a 'governamentalidade algorítmica'?",
       "opcoes": [
-        "Valores e práticas de uma organização",
-        "Apenas regras formais",
-        "Apenas objetivos financeiros"
+        "Gestão de populações através de perfis digitais e previsões comportamentais",
+        "Decisões neutras e transparentes",
+        "Ausência de vigilância"
       ],
       "correta": 0,
-      "explicacao": "Cultura organizacional molda comportamentos e relações internas. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A identidade profissional é parte da identidade social.",
-      "pergunta": "O que é identidade profissional?",
-      "opcoes": [
-        "Perceção de si no contexto do trabalho",
-        "Apenas o cargo ocupado",
-        "Apenas o salário"
-      ],
-      "correta": 0,
-      "explicacao": "Identidade profissional envolve valores, competências e papéis. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A liderança influencia o clima organizacional.",
-      "pergunta": "O que é liderança?",
-      "opcoes": [
-        "Capacidade de orientar e motivar um grupo",
-        "Apenas dar ordens",
-        "Apenas gerir recursos"
-      ],
-      "correta": 0,
-      "explicacao": "Liderança envolve influência, motivação e direção. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A cooperação facilita o trabalho coletivo.",
-      "pergunta": "O que é cooperação?",
-      "opcoes": [
-        "Ação conjunta para atingir objetivos comuns",
-        "Competição entre indivíduos",
-        "Trabalho isolado"
-      ],
-      "correta": 0,
-      "explicacao": "Cooperação melhora resultados e relações sociais. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "O conflito organizacional pode gerar mudança.",
-      "pergunta": "O que é conflito organizacional?",
-      "opcoes": [
-        "Divergência entre membros de uma organização",
-        "Discussão informal",
-        "Competição desportiva"
-      ],
-      "correta": 0,
-      "explicacao": "Conflitos podem ser funcionais ou disfuncionais. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A alteridade é essencial para relações interculturais.",
-      "pergunta": "Por que a alteridade é importante nas organizações?",
-      "opcoes": [
-        "Promove respeito e compreensão entre diferentes grupos",
-        "Elimina diferenças culturais",
-        "Impede cooperação"
-      ],
-      "correta": 0,
-      "explicacao": "Alteridade melhora comunicação, inclusão e diversidade. (Fonte: IADE)"
+      "explicacao": "Rouvroy mostra como algoritmos governam identidades e diferenças. (Fonte: Rouvroy, 2013)"
     }
   ]
 }

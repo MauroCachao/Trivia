@@ -1,225 +1,170 @@
 {
-  "categoria": "INDIVÍDUO, COMUNIDADE E SOCIEDADE",
+  "categoria": "INDIVÍDUO, COMUNIDADE E SOCIEDADE — Tecnologia",
   "perguntas": [
     {
-      "curiosidade": "O indivíduo constrói a sua identidade através da interação social.",
-      "pergunta": "O que é um indivíduo em Sociologia?",
+      "curiosidade": "A identidade individual tornou-se profundamente mediada por plataformas digitais.",
+      "pergunta": "Segundo Sherry Turkle, como a tecnologia influencia a construção do self?",
       "opcoes": [
-        "Um ser isolado sem influência social",
-        "Um ser social que interage e constrói identidade",
-        "Apenas um membro da família"
-      ],
-      "correta": 1,
-      "explicacao": "O indivíduo é um ser social cuja identidade se forma na interação. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A comunidade envolve laços fortes e proximidade.",
-      "pergunta": "O que caracteriza uma comunidade?",
-      "opcoes": [
-        "Relações impessoais e formais",
-        "Laços afetivos e proximidade",
-        "Apenas relações económicas"
-      ],
-      "correta": 1,
-      "explicacao": "Comunidade implica proximidade, partilha e laços fortes. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A sociedade é mais ampla do que a comunidade.",
-      "pergunta": "O que é sociedade?",
-      "opcoes": [
-        "Um conjunto organizado de indivíduos que partilham normas",
-        "Um grupo de amigos",
-        "Uma família extensa"
+        "Cria selves fragmentados e identidades múltiplas mediadas por dispositivos",
+        "Elimina completamente a necessidade de interação social",
+        "Torna a identidade fixa e imutável"
       ],
       "correta": 0,
-      "explicacao": "Sociedade envolve normas, instituições e organização coletiva. (Fonte: IADE)"
+      "explicacao": "Turkle argumenta que o self digital é construído através de performances em múltiplos ambientes online. (Fonte: Turkle, *Alone Together*, 2011)"
     },
     {
-      "curiosidade": "Os grupos sociais influenciam comportamentos.",
-      "pergunta": "O que é um grupo social?",
+      "curiosidade": "As redes sociais transformaram a forma como indivíduos se relacionam.",
+      "pergunta": "Segundo Barry Wellman, o que caracteriza o 'individualismo em rede'?",
       "opcoes": [
-        "Conjunto de pessoas que interagem e partilham objetivos",
-        "Pessoas que vivem na mesma rua",
-        "Pessoas que não se conhecem"
+        "Indivíduos conectados através de redes digitais flexíveis e personalizadas",
+        "Comunidades exclusivamente territoriais",
+        "Isolamento social completo"
       ],
       "correta": 0,
-      "explicacao": "Grupos sociais envolvem interação e identidade partilhada. (Fonte: IADE)"
+      "explicacao": "Wellman afirma que as redes digitais substituem estruturas comunitárias rígidas. (Fonte: Wellman, 2001)"
     },
     {
-      "curiosidade": "Os grupos primários têm relações íntimas.",
-      "pergunta": "O que é um grupo primário?",
+      "curiosidade": "A tecnologia redefine papéis sociais e expectativas.",
+      "pergunta": "Segundo Erving Goffman, como as redes sociais alteram a 'apresentação do self'?",
       "opcoes": [
-        "Grupo com relações íntimas e duradouras",
-        "Grupo profissional",
-        "Grupo temporário"
+        "Permitem performances altamente controladas e editadas",
+        "Eliminam completamente a gestão de impressões",
+        "Tornam todas as interações espontâneas"
       ],
       "correta": 0,
-      "explicacao": "Família e amigos próximos são exemplos de grupos primários. (Fonte: IADE)"
+      "explicacao": "Goffman explica que indivíduos gerem impressões; online isso intensifica-se com curadoria digital. (Fonte: Goffman, *The Presentation of Self in Everyday Life*, 1956)"
     },
     {
-      "curiosidade": "Os grupos secundários são formais e funcionais.",
-      "pergunta": "O que é um grupo secundário?",
+      "curiosidade": "A socialização digital tornou-se central na formação de identidades.",
+      "pergunta": "Segundo danah boyd, como os jovens experienciam socialização nas redes?",
       "opcoes": [
-        "Grupo com relações íntimas",
-        "Grupo com relações formais e orientadas a objetivos",
-        "Grupo familiar"
-      ],
-      "correta": 1,
-      "explicacao": "Grupos secundários incluem escolas, empresas e organizações. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "O papel social define comportamentos esperados.",
-      "pergunta": "O que é um papel social?",
-      "opcoes": [
-        "Uma profissão",
-        "Conjunto de expectativas associadas a uma posição",
-        "Uma característica física"
-      ],
-      "correta": 1,
-      "explicacao": "Cada posição social tem expectativas de comportamento. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "O status social pode ser atribuído ou adquirido.",
-      "pergunta": "O que é status social?",
-      "opcoes": [
-        "Posição que o indivíduo ocupa na hierarquia social",
-        "Apenas riqueza",
-        "Apenas profissão"
+        "Através de públicos em rede que moldam normas e comportamentos",
+        "Apenas por interação presencial",
+        "Sem influência tecnológica"
       ],
       "correta": 0,
-      "explicacao": "Status pode ser herdado (atribuído) ou conquistado (adquirido). (Fonte: IADE)"
+      "explicacao": "boyd mostra que redes digitais criam novos contextos de socialização. (Fonte: boyd, *It's Complicated*, 2014)"
     },
     {
-      "curiosidade": "A socialização é essencial para integrar o indivíduo.",
-      "pergunta": "O que é socialização?",
+      "curiosidade": "A tecnologia cria novas formas de capital social.",
+      "pergunta": "Segundo Pierre Bourdieu, como o capital social se transforma na era digital?",
       "opcoes": [
-        "Processo de aprendizagem de normas e valores",
-        "Ato de fazer amigos",
-        "Apenas educação escolar"
+        "Inclui redes online, visibilidade digital e influência algorítmica",
+        "Deixa de existir",
+        "Torna-se exclusivamente económico"
       ],
       "correta": 0,
-      "explicacao": "A socialização ocorre na família, escola e outros contextos. (Fonte: IADE)"
+      "explicacao": "O capital social digital envolve conexões e reputação online. (Fonte: Bourdieu, 1986; Ellison, 2007)"
     },
     {
-      "curiosidade": "A socialização primária ocorre na infância.",
-      "pergunta": "Onde ocorre a socialização primária?",
+      "curiosidade": "A IA influencia decisões sociais e individuais.",
+      "pergunta": "Segundo Cathy O’Neil, qual o impacto dos algoritmos na vida social?",
       "opcoes": [
-        "Na família",
-        "Na universidade",
-        "No trabalho"
+        "Podem reforçar desigualdades e moldar oportunidades individuais",
+        "Funcionam sempre de forma neutra",
+        "Eliminam preconceitos sociais"
       ],
       "correta": 0,
-      "explicacao": "A família é o primeiro agente de socialização. (Fonte: IADE)"
+      "explicacao": "O’Neil mostra que algoritmos podem reproduzir injustiças. (Fonte: O’Neil, *Weapons of Math Destruction*, 2016)"
     },
     {
-      "curiosidade": "A socialização secundária ocorre ao longo da vida.",
-      "pergunta": "O que caracteriza a socialização secundária?",
+      "curiosidade": "A comunidade digital redefine pertença e participação.",
+      "pergunta": "Segundo Howard Rheingold, o que caracteriza comunidades virtuais?",
       "opcoes": [
-        "Aprendizagem inicial da infância",
-        "Integração em novos grupos e instituições",
-        "Apenas educação religiosa"
-      ],
-      "correta": 1,
-      "explicacao": "Inclui escola, trabalho, grupos formais e informais. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A coesão social mantém a sociedade unida.",
-      "pergunta": "O que é coesão social?",
-      "opcoes": [
-        "Conflito entre grupos",
-        "Grau de união e solidariedade",
-        "Competição económica"
-      ],
-      "correta": 1,
-      "explicacao": "Coesão social refere-se à integração e solidariedade entre membros. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "O conflito social pode gerar mudança.",
-      "pergunta": "O que é conflito social?",
-      "opcoes": [
-        "Desentendimento entre grupos com interesses diferentes",
-        "Apenas violência física",
-        "Ausência de interação"
+        "Laços sociais construídos através de comunicação mediada por computador",
+        "Apenas encontros presenciais",
+        "Ausência de interação significativa"
       ],
       "correta": 0,
-      "explicacao": "Conflitos podem gerar transformação social. (Fonte: IADE)"
+      "explicacao": "Rheingold analisa comunidades online como espaços de sociabilidade. (Fonte: Rheingold, *The Virtual Community*, 1993)"
     },
     {
-      "curiosidade": "A anomia ocorre quando normas sociais enfraquecem.",
-      "pergunta": "O que é anomia?",
+      "curiosidade": "A tecnologia altera dinâmicas de poder entre indivíduos.",
+      "pergunta": "Segundo Michel Foucault, como a vigilância digital afeta indivíduos?",
       "opcoes": [
-        "Ausência ou fragilidade de normas",
-        "Excesso de regras",
-        "Conflito entre países"
+        "Produz subjetividades disciplinadas através de monitorização constante",
+        "Reduz completamente o controlo social",
+        "Elimina relações de poder"
       ],
       "correta": 0,
-      "explicacao": "Durkheim definiu anomia como falta de regulação social. (Fonte: IADE)"
+      "explicacao": "A vigilância digital amplia mecanismos disciplinares. (Fonte: Foucault, *Surveiller et Punir*, 1975)"
     },
     {
-      "curiosidade": "O controlo social regula comportamentos.",
-      "pergunta": "O que é controlo social?",
+      "curiosidade": "A tecnologia influencia mobilidade social.",
+      "pergunta": "Segundo Mark Warschauer, o que caracteriza a 'segunda exclusão digital'?",
       "opcoes": [
-        "Mecanismos que regulam comportamentos",
-        "Apenas leis do Estado",
-        "Apenas punições"
+        "Diferenças no uso significativo da tecnologia, não apenas no acesso",
+        "Apenas falta de dispositivos",
+        "Ausência de redes sociais"
       ],
       "correta": 0,
-      "explicacao": "Inclui normas, valores, instituições e sanções. (Fonte: IADE)"
+      "explicacao": "Competências digitais tornam-se essenciais para mobilidade social. (Fonte: Warschauer, *Technology and Social Inclusion*, 2003)"
     },
     {
-      "curiosidade": "A mobilidade social pode ser ascendente ou descendente.",
-      "pergunta": "O que é mobilidade social?",
+      "curiosidade": "A tecnologia cria novas formas de interação simbólica.",
+      "pergunta": "Segundo George Herbert Mead, como a comunicação digital afeta o self?",
       "opcoes": [
-        "Mudança de posição social",
-        "Mudança de residência",
-        "Mudança de profissão sem impacto social"
+        "Amplifica processos de interação simbólica através de media digitais",
+        "Elimina a necessidade de interação",
+        "Torna o self puramente biológico"
       ],
       "correta": 0,
-      "explicacao": "Mobilidade pode ocorrer entre gerações ou dentro da mesma vida. (Fonte: IADE)"
+      "explicacao": "O self emerge da interação; online isso intensifica-se. (Fonte: Mead, *Mind, Self and Society*, 1934)"
     },
     {
-      "curiosidade": "A estratificação social divide a sociedade em camadas.",
-      "pergunta": "O que é estratificação social?",
+      "curiosidade": "A tecnologia redefine grupos sociais.",
+      "pergunta": "Segundo Castells, o que caracteriza 'comunidades de afinidade' online?",
       "opcoes": [
-        "Divisão da sociedade em grupos hierárquicos",
-        "Mistura total de classes",
-        "Ausência de desigualdade"
+        "Grupos formados por interesses partilhados, não por proximidade física",
+        "Grupos exclusivamente territoriais",
+        "Estruturas rígidas e hierárquicas"
       ],
       "correta": 0,
-      "explicacao": "Estratificação envolve classes, castas ou grupos socioeconómicos. (Fonte: IADE)"
+      "explicacao": "Castells descreve redes baseadas em afinidades digitais. (Fonte: Castells, 2001)"
     },
     {
-      "curiosidade": "A identidade social depende dos grupos a que pertencemos.",
-      "pergunta": "O que é identidade social?",
+      "curiosidade": "A tecnologia influencia normas sociais.",
+      "pergunta": "Segundo Zygmunt Bauman, como a tecnologia molda relações sociais?",
       "opcoes": [
-        "Perceção de pertença a grupos sociais",
-        "Apenas características físicas",
-        "Apenas profissão"
+        "Torna vínculos mais frágeis e facilmente descartáveis",
+        "Fortalece exclusivamente relações duradouras",
+        "Elimina conflitos sociais"
       ],
       "correta": 0,
-      "explicacao": "Identidade social resulta da pertença a grupos e categorias. (Fonte: IADE)"
+      "explicacao": "Bauman descreve relações líquidas intensificadas pela tecnologia. (Fonte: Bauman, *Liquid Love*, 2003)"
     },
     {
-      "curiosidade": "A exclusão social impede participação plena.",
-      "pergunta": "O que é exclusão social?",
+      "curiosidade": "A tecnologia cria novas formas de controlo social.",
+      "pergunta": "Segundo Byung-Chul Han, o que caracteriza a 'sociedade do desempenho' digital?",
       "opcoes": [
-        "Processo que limita acesso a recursos e direitos",
-        "Mudança de emprego",
-        "Mudança de residência"
+        "Autoexploração mediada por métricas e plataformas",
+        "Liberdade total de pressão social",
+        "Ausência de competição"
       ],
       "correta": 0,
-      "explicacao": "Exclusão afeta educação, saúde, trabalho e cidadania. (Fonte: IADE)"
+      "explicacao": "Han argumenta que indivíduos se autoexploram através de métricas digitais. (Fonte: Han, *The Burnout Society*, 2010)"
     },
     {
-      "curiosidade": "A inclusão social promove igualdade de oportunidades.",
-      "pergunta": "O que é inclusão social?",
+      "curiosidade": "A tecnologia transforma relações familiares.",
+      "pergunta": "Segundo Sherry Turkle, como dispositivos digitais afetam relações familiares?",
       "opcoes": [
-        "Garantia de participação plena na sociedade",
-        "Apenas apoio financeiro",
-        "Apenas integração escolar"
+        "Criam presença ausente e reduzem atenção plena",
+        "Eliminam conflitos familiares",
+        "Tornam comunicação exclusivamente presencial"
       ],
       "correta": 0,
-      "explicacao": "Inclui acesso a direitos, serviços e oportunidades. (Fonte: IADE)"
+      "explicacao": "Turkle mostra que dispositivos criam distração constante. (Fonte: Turkle, *Reclaiming Conversation*, 2015)"
+    },
+    {
+      "curiosidade": "A tecnologia redefine pertença social.",
+      "pergunta": "Segundo Jenkins, como a cultura participativa afeta comunidades?",
+      "opcoes": [
+        "Promove colaboração e construção coletiva de identidades",
+        "Elimina totalmente diferenças culturais",
+        "Reduz participação social"
+      ],
+      "correta": 0,
+      "explicacao": "Jenkins analisa comunidades digitais como espaços de cocriação. (Fonte: Jenkins, *Convergence Culture*, 2006)"
     }
   ]
 }

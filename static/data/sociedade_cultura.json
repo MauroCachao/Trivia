@@ -1,225 +1,170 @@
 {
-  "categoria": "SOCIEDADE E CULTURA",
+  "categoria": "SOCIEDADE E CULTURA — Tecnologia",
   "perguntas": [
     {
-      "curiosidade": "Cultura inclui crenças, hábitos, valores, símbolos e práticas sociais.",
-      "pergunta": "O que é cultura?",
+      "curiosidade": "A cultura digital redefine como produzimos e interpretamos significados.",
+      "pergunta": "Segundo Lev Manovich, o que caracteriza a cultura digital contemporânea?",
       "opcoes": [
-        "Conjunto de crenças, hábitos e valores",
-        "Apenas arte",
-        "Apenas tecnologia"
+        "Representação numérica, modularidade e automação",
+        "Predomínio exclusivo da oralidade",
+        "Desaparecimento dos media tradicionais"
       ],
       "correta": 0,
-      "explicacao": "A Antropologia Cultural estuda crenças, hábitos, ritos e tradições. (Fonte: IADE)"
+      "explicacao": "Manovich identifica princípios estruturais da cultura digital, como modularidade e variabilidade. (Fonte: Manovich, *The Language of New Media*, 2001)"
     },
     {
-      "curiosidade": "A sociedade é formada por indivíduos que interagem segundo normas e instituições.",
-      "pergunta": "O que caracteriza uma sociedade?",
+      "curiosidade": "As redes sociais tornaram-se centrais na construção de identidades culturais.",
+      "pergunta": "Para Stuart Hall, como a tecnologia influencia identidades culturais?",
       "opcoes": [
-        "Um conjunto de indivíduos que vivem isolados",
-        "Um grupo de indivíduos que partilham normas e instituições",
-        "Apenas pessoas com a mesma profissão"
-      ],
-      "correta": 1,
-      "explicacao": "Sociedade implica interação organizada e normas comuns. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "Os valores culturais orientam comportamentos e decisões.",
-      "pergunta": "O que são valores culturais?",
-      "opcoes": [
-        "Objetos materiais de uma cultura",
-        "Ideias que orientam comportamentos",
-        "Regras jurídicas"
-      ],
-      "correta": 1,
-      "explicacao": "Valores são princípios que orientam ações e julgamentos. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "Normas sociais regulam comportamentos esperados num grupo.",
-      "pergunta": "O que são normas sociais?",
-      "opcoes": [
-        "Leis escritas pelo governo",
-        "Regras de comportamento aceites socialmente",
-        "Apenas tradições religiosas"
-      ],
-      "correta": 1,
-      "explicacao": "Normas sociais são regras informais que orientam comportamentos. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "Os símbolos culturais transmitem significados partilhados.",
-      "pergunta": "O que é um símbolo cultural?",
-      "opcoes": [
-        "Um objeto sem significado",
-        "Algo que representa ideias partilhadas",
-        "Apenas uma imagem religiosa"
-      ],
-      "correta": 1,
-      "explicacao": "Símbolos comunicam significados dentro de uma cultura. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A socialização é essencial para integrar o indivíduo na sociedade.",
-      "pergunta": "O que é socialização?",
-      "opcoes": [
-        "Processo de aprendizagem de normas e valores",
-        "Ato de fazer amigos",
-        "Apenas educação escolar"
+        "Amplifica processos de representação e negociação identitária",
+        "Elimina completamente diferenças culturais",
+        "Torna identidades fixas e imutáveis"
       ],
       "correta": 0,
-      "explicacao": "Socialização é o processo pelo qual o indivíduo aprende a viver em sociedade. (Fonte: IADE)"
+      "explicacao": "Hall defende que identidades são construções discursivas; plataformas digitais intensificam esse processo. (Fonte: Hall, 1990)"
     },
     {
-      "curiosidade": "A cultura material inclui objetos físicos criados por uma sociedade.",
-      "pergunta": "O que é cultura material?",
+      "curiosidade": "A cultura algorítmica molda comportamentos e preferências.",
+      "pergunta": "Segundo Ted Striphas, o que é 'cultura algorítmica'?",
       "opcoes": [
-        "Ideias e valores",
-        "Objetos e artefactos produzidos",
-        "Apenas tradições orais"
+        "Processo em que algoritmos influenciam práticas culturais e decisões",
+        "Uso exclusivo de estatísticas em ciências sociais",
+        "Eliminação da mediação tecnológica"
       ],
-      "correta": 1,
-      "explicacao": "Cultura material refere-se a objetos físicos criados por um grupo. (Fonte: IADE)"
+      "correta": 0,
+      "explicacao": "Striphas argumenta que algoritmos moldam visibilidade, consumo e interação cultural. (Fonte: Striphas, 2015)"
     },
     {
-      "curiosidade": "A cultura imaterial inclui crenças, valores e tradições.",
-      "pergunta": "O que é cultura imaterial?",
+      "curiosidade": "A globalização cultural tornou-se inseparável das plataformas digitais.",
+      "pergunta": "Segundo Arjun Appadurai, como a tecnologia transforma fluxos culturais?",
       "opcoes": [
-        "Objetos físicos",
-        "Ideias, crenças e tradições",
-        "Tecnologia"
+        "Cria mediascapes que intensificam circulação global de imagens e narrativas",
+        "Reduz drasticamente trocas culturais",
+        "Elimina diferenças simbólicas"
       ],
-      "correta": 1,
-      "explicacao": "Cultura imaterial refere-se a elementos simbólicos e não físicos. (Fonte: IADE)"
+      "correta": 0,
+      "explicacao": "Appadurai descreve fluxos culturais mediados por tecnologias digitais. (Fonte: Appadurai, 1996)"
     },
     {
-      "curiosidade": "O etnocentrismo leva a julgar outras culturas pela própria.",
-      "pergunta": "O que é etnocentrismo?",
+      "curiosidade": "A cultura participativa redefine a relação entre produtores e consumidores.",
+      "pergunta": "Para Henry Jenkins, o que caracteriza a cultura participativa online?",
       "opcoes": [
-        "Valorização da diversidade cultural",
-        "Julgamento de outras culturas com base na própria",
-        "Estudo científico da cultura"
-      ],
-      "correta": 1,
-      "explicacao": "Etnocentrismo é interpretar outra cultura segundo padrões próprios. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "O relativismo cultural defende compreender cada cultura no seu contexto.",
-      "pergunta": "O que é relativismo cultural?",
-      "opcoes": [
-        "Comparar culturas para ver qual é superior",
-        "Compreender práticas culturais no seu contexto",
-        "Rejeitar todas as tradições"
-      ],
-      "correta": 1,
-      "explicacao": "Relativismo cultural evita julgamentos externos e procura compreender. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "As instituições sociais organizam a vida coletiva.",
-      "pergunta": "O que são instituições sociais?",
-      "opcoes": [
-        "Empresas privadas",
-        "Estruturas que regulam comportamentos sociais",
-        "Apenas escolas"
-      ],
-      "correta": 1,
-      "explicacao": "Instituições incluem família, escola, Estado, religião. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A identidade cultural liga o indivíduo ao seu grupo.",
-      "pergunta": "O que é identidade cultural?",
-      "opcoes": [
-        "Apenas nacionalidade",
-        "Sentido de pertença baseado em cultura partilhada",
-        "Profissão de uma pessoa"
-      ],
-      "correta": 1,
-      "explicacao": "Identidade cultural resulta de valores, tradições e símbolos partilhados. (Fonte: IADE)"
-    },
-    {
-      "curiosidade": "A aculturação ocorre quando culturas entram em contacto prolongado.",
-      "pergunta": "O que é aculturação?",
-      "opcoes": [
-        "Perda total da cultura",
-        "Processo de troca cultural entre grupos",
+        "Interação ativa, colaboração e produção coletiva de conteúdos",
+        "Consumo passivo de media",
         "Isolamento cultural"
       ],
-      "correta": 1,
-      "explicacao": "Aculturação envolve influência mútua entre culturas. (Fonte: IADE)"
+      "correta": 0,
+      "explicacao": "Jenkins analisa como fãs e utilizadores cocriam cultura digital. (Fonte: Jenkins, *Convergence Culture*, 2006)"
     },
     {
-      "curiosidade": "A globalização intensifica contactos culturais.",
-      "pergunta": "A globalização cultural refere-se a:",
+      "curiosidade": "A vigilância digital tornou-se parte da vida quotidiana.",
+      "pergunta": "Segundo Shoshana Zuboff, o capitalismo de vigilância baseia-se em:",
       "opcoes": [
-        "Isolamento entre países",
-        "Maior circulação de ideias e práticas culturais",
-        "Fim das tradições locais"
+        "Extração de dados comportamentais para prever e modificar ações",
+        "Transparência total das empresas",
+        "Redução da recolha de dados"
       ],
-      "correta": 1,
-      "explicacao": "Globalização aumenta interconexões culturais. (Fonte: IADE)"
+      "correta": 0,
+      "explicacao": "Zuboff descreve um novo regime económico baseado na captura de dados. (Fonte: Zuboff, *The Age of Surveillance Capitalism*, 2019)"
     },
     {
-      "curiosidade": "A cultura popular é amplamente difundida pelos media.",
-      "pergunta": "O que é cultura popular?",
+      "curiosidade": "A cultura digital cria novas formas de sociabilidade.",
+      "pergunta": "Segundo Barry Wellman, o que caracteriza a 'networked individualism'?",
       "opcoes": [
-        "Cultura exclusiva das elites",
-        "Cultura difundida em massa",
-        "Cultura apenas tradicional"
+        "Indivíduos conectados através de redes digitais flexíveis",
+        "Comunidades exclusivamente territoriais",
+        "Desaparecimento das relações sociais"
       ],
-      "correta": 1,
-      "explicacao": "Cultura popular é consumida por grandes públicos. (Fonte: IADE)"
+      "correta": 0,
+      "explicacao": "Wellman argumenta que redes digitais substituem estruturas comunitárias rígidas. (Fonte: Wellman, 2001)"
     },
     {
-      "curiosidade": "A cultura erudita envolve produção intelectual especializada.",
-      "pergunta": "O que caracteriza a cultura erudita?",
+      "curiosidade": "Os memes tornaram-se formas culturais globais.",
+      "pergunta": "Para Limor Shifman, o que define os memes digitais?",
       "opcoes": [
-        "Produção cultural de massas",
-        "Produção intelectual especializada",
-        "Apenas tradições orais"
+        "Unidades culturais replicáveis que circulam e se transformam online",
+        "Apenas imagens humorísticas",
+        "Conteúdos estáticos sem variação"
       ],
-      "correta": 1,
-      "explicacao": "Cultura erudita inclui literatura, ciência, artes clássicas. (Fonte: IADE)"
+      "correta": 0,
+      "explicacao": "Shifman analisa memes como práticas culturais participativas. (Fonte: Shifman, *Memes in Digital Culture*, 2014)"
     },
     {
-      "curiosidade": "Os ritos sociais marcam momentos importantes da vida.",
-      "pergunta": "O que são ritos sociais?",
+      "curiosidade": "A cultura digital desafia fronteiras entre público e privado.",
+      "pergunta": "Segundo danah boyd, o que são 'públicos em rede'?",
       "opcoes": [
-        "Atividades sem significado",
-        "Práticas simbólicas que marcam transições",
-        "Apenas festas religiosas"
+        "Espaços sociais construídos através de tecnologias digitais",
+        "Apenas audiências televisivas",
+        "Grupos isolados sem interação"
       ],
-      "correta": 1,
-      "explicacao": "Ritos marcam nascimento, casamento, morte, etc. (Fonte: IADE)"
+      "correta": 0,
+      "explicacao": "boyd analisa como jovens constroem identidades em públicos digitais. (Fonte: boyd, *It's Complicated*, 2014)"
     },
     {
-      "curiosidade": "A linguagem é um elemento central da cultura.",
-      "pergunta": "Qual o papel da linguagem na cultura?",
+      "curiosidade": "A cultura digital cria novas formas de poder simbólico.",
+      "pergunta": "Segundo Pierre Bourdieu, como o capital cultural se transforma na era digital?",
       "opcoes": [
-        "Não tem relação com cultura",
-        "É um meio de transmitir significados culturais",
-        "Serve apenas para comunicação técnica"
+        "Inclui competências digitais e literacias tecnológicas",
+        "Deixa de existir",
+        "Torna-se exclusivamente económico"
       ],
-      "correta": 1,
-      "explicacao": "A linguagem transmite valores, símbolos e tradições. (Fonte: IADE)"
+      "correta": 0,
+      "explicacao": "Literacia digital torna-se forma de capital cultural. (Fonte: Bourdieu, 1979; Jenkins, 2009)"
     },
     {
-      "curiosidade": "A diversidade cultural é reconhecida como património da humanidade.",
-      "pergunta": "O que é diversidade cultural?",
+      "curiosidade": "A inteligência artificial influencia práticas culturais.",
+      "pergunta": "Segundo Kate Crawford, qual o impacto cultural da IA?",
       "opcoes": [
-        "Existência de uma única cultura dominante",
-        "Coexistência de várias culturas",
-        "Fim das tradições locais"
+        "Reconfigura relações de poder, trabalho e representação",
+        "Elimina desigualdades sociais",
+        "Funciona de forma neutra e apolítica"
       ],
-      "correta": 1,
-      "explicacao": "Diversidade cultural refere-se à variedade de expressões culturais. (Fonte: IADE)"
+      "correta": 0,
+      "explicacao": "Crawford mostra que IA reflete estruturas sociais e políticas. (Fonte: Crawford, *Atlas of AI*, 2021)"
     },
     {
-      "curiosidade": "A cultura influencia a forma como percebemos o mundo.",
-      "pergunta": "Como a cultura molda a perceção?",
+      "curiosidade": "A cultura digital é marcada pela lógica da plataforma.",
+      "pergunta": "Segundo José van Dijck, o que caracteriza a 'sociedade da plataforma'?",
       "opcoes": [
-        "Não influencia perceções",
-        "Define significados e interpretações da realidade",
-        "Apenas afeta tradições"
+        "Intermediação algorítmica e dependência de infraestruturas digitais",
+        "Descentralização total da comunicação",
+        "Fim das grandes empresas tecnológicas"
       ],
-      "correta": 1,
-      "explicacao": "A cultura molda a forma como interpretamos o mundo. (Fonte: IADE)"
+      "correta": 0,
+      "explicacao": "Plataformas moldam interações sociais e culturais. (Fonte: van Dijck, *The Platform Society*, 2018)"
+    },
+    {
+      "curiosidade": "A cultura digital cria novas desigualdades.",
+      "pergunta": "Segundo Mark Warschauer, o que define a 'segunda exclusão digital'?",
+      "opcoes": [
+        "Diferenças no uso significativo da tecnologia, não apenas no acesso",
+        "Falta total de dispositivos",
+        "Ausência de redes sociais"
+      ],
+      "correta": 0,
+      "explicacao": "Competências digitais tornam-se essenciais para participação cultural. (Fonte: Warschauer, 2003)"
+    },
+    {
+      "curiosidade": "A cultura digital transforma a produção artística.",
+      "pergunta": "Segundo Nicolas Bourriaud, o que caracteriza a 'estética relacional' na era digital?",
+      "opcoes": [
+        "Obras que promovem interação e participação mediada por tecnologia",
+        "Arte isolada do público",
+        "Produção exclusivamente manual"
+      ],
+      "correta": 0,
+      "explicacao": "A arte digital enfatiza relações e interatividade. (Fonte: Bourriaud, 1998)"
+    },
+    {
+      "curiosidade": "A cultura digital cria novas formas de comunidade.",
+      "pergunta": "Segundo Howard Rheingold, o que define comunidades virtuais?",
+      "opcoes": [
+        "Grupos que constroem laços sociais através de comunicação mediada por computador",
+        "Apenas grupos presenciais",
+        "Interações sem continuidade"
+      ],
+      "correta": 0,
+      "explicacao": "Rheingold analisa comunidades online como espaços de sociabilidade. (Fonte: Rheingold, *The Virtual Community*, 1993)"
     }
   ]
 }

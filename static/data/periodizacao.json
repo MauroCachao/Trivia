@@ -1,125 +1,170 @@
 {
-  "categoria": "PERIODIZAÇÃO SOCIO-HISTÓRICA E PARADIGMAS CIVILIZACIONAIS",
+  "categoria": "PERIODIZAÇÃO SOCIO-HISTÓRICA E PARADIGMAS CIVILIZACIONAIS — Tecnologia",
   "perguntas": [
     {
-      "curiosidade": "A periodização histórica ajuda a compreender continuidades e rupturas sociais.",
-      "pergunta": "O que é periodização histórica?",
+      "curiosidade": "A revolução digital é considerada por muitos autores como uma nova etapa civilizacional.",
+      "pergunta": "Segundo Manuel Castells, o que marca a transição para a sociedade informacional?",
       "opcoes": [
-        "Divisão do tempo em fases para facilitar a análise",
-        "Um calendário religioso",
-        "Um método de previsão do futuro"
+        "A centralidade das tecnologias de informação na estrutura social",
+        "A substituição completa das instituições políticas",
+        "O retorno a formas pré-industriais de produção"
       ],
       "correta": 0,
-      "explicacao": "A periodização organiza o tempo em etapas com características próprias, facilitando a análise sociológica.",
-      "fonte": "IADE"
+      "explicacao": "Castells argumenta que a revolução informacional reorganiza economia, cultura e poder através de redes digitais. (Fonte: Castells, *The Rise of the Network Society*, 1996)"
     },
     {
-      "curiosidade": "A Idade Moderna marca o início do capitalismo comercial.",
-      "pergunta": "Qual evento simboliza o início da Idade Moderna?",
+      "curiosidade": "A Quarta Revolução Industrial combina tecnologias digitais, físicas e biológicas.",
+      "pergunta": "Segundo Klaus Schwab, o que distingue a Quarta Revolução Industrial das anteriores?",
       "opcoes": [
-        "A Queda de Constantinopla (1453)",
-        "A Revolução Francesa (1789)",
-        "A Revolução Industrial (século XVIII)"
+        "A convergência entre IA, biotecnologia e automação avançada",
+        "A expansão exclusiva da indústria pesada",
+        "A redução da inovação tecnológica"
       ],
       "correta": 0,
-      "explicacao": "A Queda de Constantinopla é tradicionalmente usada como marco inicial da Idade Moderna.",
-      "fonte": "IADE"
+      "explicacao": "Schwab descreve esta fase como marcada pela fusão de tecnologias e pela automação cognitiva. (Fonte: Schwab, *The Fourth Industrial Revolution*, 2016)"
     },
     {
-      "curiosidade": "A Idade Contemporânea é marcada por revoluções políticas e tecnológicas.",
-      "pergunta": "Qual acontecimento marca o início da Idade Contemporânea?",
+      "curiosidade": "A modernidade digital redefine a relação entre tempo e espaço.",
+      "pergunta": "Para Anthony Giddens, como a tecnologia transforma a modernidade tardia?",
       "opcoes": [
-        "A Revolução Francesa (1789)",
-        "A Primeira Guerra Mundial",
-        "A invenção da imprensa"
+        "Intensifica a desancoragem espaço-temporal e permite interações à distância",
+        "Reforça exclusivamente relações locais",
+        "Elimina a globalização"
       ],
       "correta": 0,
-      "explicacao": "A Revolução Francesa inaugura a Idade Contemporânea, com novos paradigmas políticos e sociais.",
-      "fonte": "IADE"
+      "explicacao": "Giddens afirma que sistemas tecnológicos permitem relações sociais sem co-presença física. (Fonte: Giddens, *The Consequences of Modernity*, 1990)"
     },
     {
-      "curiosidade": "Os paradigmas civilizacionais explicam grandes modelos de organização social.",
-      "pergunta": "O que é um paradigma civilizacional?",
+      "curiosidade": "A tecnociência tornou-se um elemento central dos paradigmas civilizacionais.",
+      "pergunta": "Segundo Bruno Latour, por que a modernidade falha enquanto narrativa histórica?",
       "opcoes": [
-        "Um modelo que orienta a organização de uma sociedade",
-        "Uma lei científica",
-        "Um conjunto de tradições religiosas"
+        "Porque separa artificialmente natureza, sociedade e tecnologia",
+        "Porque elimina a ciência do debate público",
+        "Porque rejeita totalmente a inovação"
       ],
       "correta": 0,
-      "explicacao": "Paradigmas civilizacionais são modelos estruturantes que definem valores, economia e organização social.",
-      "fonte": "IADE"
+      "explicacao": "Latour defende que humanos e tecnologias formam redes híbridas inseparáveis. (Fonte: Latour, *We Have Never Been Modern*, 1991)"
     },
     {
-      "curiosidade": "O paradigma agrícola dominou durante milhares de anos.",
-      "pergunta": "Qual característica define o paradigma agrícola?",
+      "curiosidade": "A história digital introduz novas formas de memória coletiva.",
+      "pergunta": "Segundo Pierre Nora, como os 'lugares de memória' se transformam na era digital?",
       "opcoes": [
-        "Economia baseada na agricultura e trabalho manual",
-        "Predomínio da indústria pesada",
-        "Sociedade digital e globalizada"
+        "Migram para arquivos digitais e plataformas online",
+        "Tornam-se exclusivamente monumentos físicos",
+        "Desaparecem completamente"
       ],
       "correta": 0,
-      "explicacao": "O paradigma agrícola assenta na produção agrícola e numa sociedade rural.",
-      "fonte": "IADE"
+      "explicacao": "A digitalização cria novos espaços de preservação simbólica. (Fonte: Nora, *Les Lieux de Mémoire*, 1984)"
     },
     {
-      "curiosidade": "A Revolução Industrial transformou profundamente o trabalho humano.",
-      "pergunta": "O que caracteriza o paradigma industrial?",
+      "curiosidade": "A automação redefine o trabalho e a estrutura social.",
+      "pergunta": "Segundo Brynjolfsson e McAfee, qual é o impacto da automação digital?",
       "opcoes": [
-        "Produção mecanizada e urbanização",
-        "Economia rural",
-        "Sociedades tribais"
+        "Substituição de tarefas cognitivas e aumento da desigualdade tecnológica",
+        "Redução da produtividade",
+        "Fim da inovação"
       ],
       "correta": 0,
-      "explicacao": "O paradigma industrial introduz máquinas, fábricas e cidades como centros produtivos.",
-      "fonte": "IADE"
+      "explicacao": "Os autores mostram como IA e algoritmos transformam o trabalho. (Fonte: Brynjolfsson & McAfee, *The Second Machine Age*, 2014)"
     },
     {
-      "curiosidade": "O paradigma pós-industrial valoriza o conhecimento.",
-      "pergunta": "O que define o paradigma pós-industrial?",
+      "curiosidade": "A globalização digital acelera fluxos culturais e económicos.",
+      "pergunta": "Segundo Arjun Appadurai, o que caracteriza os technoscapes?",
       "opcoes": [
-        "Centralidade dos serviços e da informação",
-        "Dependência exclusiva da agricultura",
-        "Expansão colonial"
+        "Fluxos globais de tecnologia que moldam práticas sociais",
+        "Isolamento tecnológico entre países",
+        "Redução das trocas culturais"
       ],
       "correta": 0,
-      "explicacao": "O paradigma pós-industrial destaca o setor terciário e a economia do conhecimento.",
-      "fonte": "IADE"
+      "explicacao": "Appadurai descreve technoscapes como fluxos tecnológicos que influenciam culturas. (Fonte: Appadurai, *Modernity at Large*, 1996)"
     },
     {
-      "curiosidade": "A globalização intensificou interdependências económicas e culturais.",
-      "pergunta": "A globalização é característica de que paradigma?",
+      "curiosidade": "A vigilância digital tornou-se parte da vida quotidiana.",
+      "pergunta": "Segundo Shoshana Zuboff, o que caracteriza o capitalismo de vigilância?",
       "opcoes": [
-        "Pós-industrial",
-        "Agrícola",
-        "Feudal"
+        "Extração de dados comportamentais para prever e modificar ações",
+        "Transparência total das empresas",
+        "Redução da recolha de dados"
       ],
       "correta": 0,
-      "explicacao": "A globalização é um fenómeno típico das sociedades pós-industriais e contemporâneas.",
-      "fonte": "IADE"
+      "explicacao": "Zuboff descreve um novo regime económico baseado na captura de dados. (Fonte: Zuboff, *The Age of Surveillance Capitalism*, 2019)"
     },
     {
-      "curiosidade": "A Idade Média durou aproximadamente mil anos.",
-      "pergunta": "Qual é o marco tradicional do início da Idade Média?",
+      "curiosidade": "A modernidade líquida torna-se ainda mais fluida com a tecnologia.",
+      "pergunta": "Segundo Zygmunt Bauman, como a tecnologia intensifica a modernidade líquida?",
       "opcoes": [
-        "A queda do Império Romano do Ocidente (476)",
-        "A invenção da escrita",
-        "A descoberta da América"
+        "Acelera relações sociais e torna identidades mais instáveis",
+        "Cria estruturas sociais rígidas",
+        "Elimina mobilidade"
       ],
       "correta": 0,
-      "explicacao": "A queda do Império Romano do Ocidente marca o início da Idade Média.",
-      "fonte": "IADE"
+      "explicacao": "Bauman argumenta que a tecnologia amplifica a volatilidade social. (Fonte: Bauman, *Liquid Modernity*, 2000)"
     },
     {
-      "curiosidade": "A modernidade trouxe novos valores como racionalidade e progresso.",
-      "pergunta": "Qual destes valores está associado à modernidade?",
+      "curiosidade": "A cultura digital exige novas metodologias de análise histórica.",
+      "pergunta": "Segundo Lev Manovich, o que define a cultura digital?",
       "opcoes": [
-        "Racionalidade e ciência",
-        "Dominação feudal",
-        "Economia de subsistência"
+        "Modularidade, variabilidade e automação",
+        "Predomínio da oralidade",
+        "Desaparecimento dos media"
       ],
       "correta": 0,
-      "explicacao": "A modernidade valoriza ciência, razão e progresso.",
-      "fonte": "IADE"
+      "explicacao": "Manovich identifica princípios estruturais da cultura digital. (Fonte: Manovich, *The Language of New Media*, 2001)"
+    },
+    {
+      "curiosidade": "A história da tecnologia é também história social.",
+      "pergunta": "Segundo Thomas Hughes, o que são 'sistemas sociotécnicos'?",
+      "opcoes": [
+        "Redes que combinam tecnologia, instituições e práticas sociais",
+        "Máquinas isoladas",
+        "Tecnologias sem impacto social"
+      ],
+      "correta": 0,
+      "explicacao": "Hughes mostra que tecnologias dependem de redes sociais e políticas. (Fonte: Hughes, *Networks of Power*, 1983)"
+    },
+    {
+      "curiosidade": "A tecnopolítica redefine paradigmas civilizacionais.",
+      "pergunta": "Segundo Foucault, como o poder se manifesta na era digital?",
+      "opcoes": [
+        "Através de biopolítica algorítmica e vigilância distribuída",
+        "Apenas por repressão física",
+        "Sem qualquer mediação tecnológica"
+      ],
+      "correta": 0,
+      "explicacao": "Tecnologias ampliam mecanismos de controlo e normalização. (Fonte: Foucault, *Surveiller et Punir*, 1975)"
+    },
+    {
+      "curiosidade": "A história digital cria novas formas de periodização.",
+      "pergunta": "Segundo Daniel Bell, o que caracteriza a sociedade pós-industrial?",
+      "opcoes": [
+        "Centralidade do conhecimento e das tecnologias de informação",
+        "Predomínio da agricultura",
+        "Economia baseada exclusivamente em manufatura"
+      ],
+      "correta": 0,
+      "explicacao": "Bell descreve a transição para uma economia baseada em serviços e informação. (Fonte: Bell, *The Coming of Post-Industrial Society*, 1973)"
+    },
+    {
+      "curiosidade": "A aceleração tecnológica altera ritmos históricos.",
+      "pergunta": "Segundo Hartmut Rosa, o que caracteriza a 'aceleração social'?",
+      "opcoes": [
+        "Aumento contínuo da velocidade tecnológica, social e cultural",
+        "Estagnação temporal",
+        "Redução da inovação"
+      ],
+      "correta": 0,
+      "explicacao": "Rosa argumenta que a modernidade é marcada por aceleração constante. (Fonte: Rosa, *Social Acceleration*, 2013)"
+    },
+    {
+      "curiosidade": "A digitalização cria novos paradigmas civilizacionais.",
+      "pergunta": "Segundo Yuk Hui, o que significa 'cosmotécnica'?",
+      "opcoes": [
+        "A relação entre tecnologia e cosmologias culturais",
+        "A universalidade da técnica",
+        "A separação total entre cultura e tecnologia"
+      ],
+      "correta": 0,
+      "explicacao": "Hui defende que cada cultura produz a sua própria relação com a tecnologia. (Fonte: Hui, *The Question Concerning Technology in China*, 2016)"
     }
   ]
 }
