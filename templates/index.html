@@ -2,29 +2,29 @@
 {% block title %}Início{% endblock %}
 {% block content %}
 
-<!-- Fundo -->
-<div class="bg-img" style="background-image: url('{{ url_for('static', filename='img/bg_inicio.jpg') }}');"></div>
+<!-- Fundo animado -->
+<div class="bg-animated"></div>
 
 <div class="card fade-in">
 
-    <h1 class="title" style="text-align:center;">Trivia Sociedades Modernas e Cultura Contemporânea</h1>
-    <p style="text-align:center; font-size:18px;">
+    <h1 class="title glow">Trivia Sociedades Modernas e Cultura Contemporânea</h1>
+
+    <p class="intro">
         Grupo:<br>
         Bernardo Primor Maia <br>
         Luís Miguel Coelho Lota <br>
         Mauro Lima Cachão <br>
-        Rúben Manuel da Costa Beja Marques Cruz <br>
+        Rúben Manuel da Costa Beja Marques Cruz <br><br>
         Bem-vindo ao jogo! Escolhe quantos jogadores vão participar.
     </p>
 
-    <form method="POST" style="text-align:center; margin-top:20px;">
+    <form method="POST" class="form-area">
 
-        <label for="num_jogadores" style="font-size:20px; font-weight:bold;">
+        <label for="num_jogadores" class="label">
             Número de jogadores:
         </label>
 
-        <select name="num_jogadores" id="num_jogadores" required
-                style="padding:10px; font-size:18px; border-radius:10px; margin-left:10px;">
+        <select name="num_jogadores" id="num_jogadores" required class="select">
             <option value="1">1 Jogador</option>
             <option value="2">2 Jogadores</option>
             <option value="3">3 Jogadores</option>
@@ -33,9 +33,7 @@
             <option value="6">6 Jogadores</option>
         </select>
 
-        <br><br>
-
-        <button type="submit" class="btn pulse" style="font-size:20px;">
+        <button type="submit" class="btn pulse">
             Começar
         </button>
     </form>
@@ -43,14 +41,138 @@
 </div>
 
 <style>
-#num_jogadores {
+
+/* Fundo animado com partículas */
+.bg-animated {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('{{ url_for('static', filename='img/bg_inicio.jpg') }}') center/cover no-repeat;
+    filter: brightness(0.6);
+    animation: slowZoom 25s infinite alternate ease-in-out;
+    z-index: -2;
+}
+
+@keyframes slowZoom {
+    from { transform: scale(1); }
+    to   { transform: scale(1.08); }
+}
+
+/* Partículas luminosas */
+.bg-animated::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image:
+        radial-gradient(circle, rgba(255,255,255,0.15) 2px, transparent 2px),
+        radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px);
+    background-size: 120px 120px, 80px 80px;
+    animation: stars 12s linear infinite;
+}
+
+@keyframes stars {
+    from { transform: translateY(0); }
+    to   { transform: translateY(-200px); }
+}
+
+/* Cartão central */
+.card {
+    background: rgba(0,0,0,0.65);
+    padding: 40px;
+    border-radius: 20px;
+    width: 60%;
+    margin: 120px auto;
+    color: white;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 0 20px rgba(255,255,255,0.15);
+}
+
+/* Fade-in suave */
+.fade-in {
+    animation: fadeIn 1.2s ease forwards;
+    opacity: 0;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(40px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Título com brilho */
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.glow {
+    animation: glowPulse 2.5s infinite ease-in-out;
+}
+
+@keyframes glowPulse {
+    0%   { text-shadow: 0 0 8px rgba(255,255,255,0.4); }
+    50%  { text-shadow: 0 0 18px rgba(255,255,255,0.9); }
+    100% { text-shadow: 0 0 8px rgba(255,255,255,0.4); }
+}
+
+/* Texto */
+.intro {
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Formulário */
+.form-area {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.select {
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-left: 10px;
     cursor: pointer;
 }
 
-.title {
-    font-size: 32px;
-    font-weight: bold;
+/* Botão animado */
+.btn {
+    margin-top: 30px;
+    padding: 12px 30px;
+    font-size: 22px;
+    border-radius: 12px;
+    background: #FFD700;
+    color: black;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
 }
+
+.btn:hover {
+    transform: scale(1.08);
+    box-shadow: 0 0 12px rgba(255,255,255,0.7);
+}
+
+/* Pulso */
+.pulse {
+    animation: pulseAnim 1.8s infinite ease-in-out;
+}
+
+@keyframes pulseAnim {
+    0%   { transform: scale(1); }
+    50%  { transform: scale(1.08); }
+    100% { transform: scale(1); }
+}
+
 </style>
 
 {% endblock %}

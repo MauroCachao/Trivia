@@ -111,18 +111,23 @@ def roda():
     if not jogadores:
         return redirect(url_for("index"))
 
-    session["queijo_ganho"] = None
-    session["queijo_perdido"] = None
-
     j_idx = session.get("jogador_atual", 0)
     jogador_atual = jogadores[j_idx]
+
+    # Filtrar categorias que o jogador já tem
+    categorias_validas = [
+        c for c in categorias_roda
+        if c not in jogador_atual["queijos"]
+        or c in ["PERDER QUEIJO", "PERDER A VEZ"]
+    ]
 
     return render_template(
         "roda.html",
         jogador_atual=jogador_atual,
-        categorias=categorias_roda,
+        categorias=categorias_validas,
         cores_queijo=cores_queijo
     )
+
 
 
 # QUIZ_TEMA
@@ -131,12 +136,15 @@ def roda():
 def quiz_tema():
     tema = request.args.get("tema")
 
-    
+    jogadores = session.get("jogadores", [])
+    j_idx = session.get("jogador_atual", 0)
+    jogador = jogadores[j_idx]
+
+    # PERDER A VEZ
     if tema == "PERDER A VEZ":
-        session["jogador_atual"] = (session["jogador_atual"] + 1) % len(session["jogadores"])
+        session["jogador_atual"] = (j_idx + 1) % len(jogadores)
         return redirect(url_for("roda"))
 
-    
     if tema == "PERDER QUEIJO":
         j_idx = session["jogador_atual"]
         jogador = session["jogadores"][j_idx]
@@ -144,24 +152,52 @@ def quiz_tema():
         if jogador["queijos"]:
             perdido = random.choice(jogador["queijos"])
             jogador["queijos"].remove(perdido)
+
             session["queijo_perdido"] = perdido
+            session["cor_queijo_perdido"] = cores_queijo.get(perdido, "#FFFFFF")
+            session["evento"] = "PERDER_QUEIJO"
+        else:
+            session["evento"] = "SEM_QUEIJO"
 
         session["jogadores"][j_idx] = jogador
         session["jogador_atual"] = (j_idx + 1) % len(session["jogadores"])
-        return redirect(url_for("roda"))
 
-    
+        return redirect(url_for("evento"))
+
+
+
+    # PERGUNTA NORMAL
     perguntas = perguntas_por_tema[tema]
     pergunta = random.choice(perguntas)
     pergunta["imagem"] = imagem_aleatoria()
+
+    # Baralhar opções mantendo a correta
+    opcoes = pergunta["opcoes"]
+    indice_correto = pergunta["correta"]
+
+    # Criar lista de pares (opcao, é_correta)
+    opcoes_marcadas = [
+        (opcao, i == indice_correto)
+        for i, opcao in enumerate(opcoes)
+    ]
+
+    # Baralhar
+    random.shuffle(opcoes_marcadas)
+
+    # Reconstruir lista de opções e novo índice correto
+    novas_opcoes = [op[0] for op in opcoes_marcadas]
+    novo_indice_correto = [i for i, op in enumerate(opcoes_marcadas) if op[1]][0]
+
+    # Atualizar pergunta
+    pergunta["opcoes"] = novas_opcoes
+    pergunta["correta"] = novo_indice_correto
+
 
     session["tema_atual"] = tema
     session["pergunta_atual"] = pergunta
 
     return render_template("curiosidade.html", pergunta=pergunta, tema=tema)
 
-
-# PERGUNTA
 
 @app.route("/pergunta")
 def pergunta():
@@ -198,7 +234,6 @@ def quiz():
 
     acertou = (resposta == correta)
 
-  
     if acertou:
         jogadores[j_idx]["score"] += 1
 
@@ -210,37 +245,68 @@ def quiz():
 
         session["queijo_perdido"] = None
 
-  
     else:
-        resposta_certa = pergunta["opcoes"][correta]
         session["queijo_ganho"] = None
         session["queijo_perdido"] = tema
         jogadores[j_idx]["erros"].append(tema)
 
-  
+    # Verificar vitória
     if len(jogadores[j_idx]["queijos"]) == 7:
         return redirect(url_for("result"))
 
+    # Salvar alterações
     session["jogadores"] = jogadores
 
-  
+    # 🔥 PASSAR PARA O PRÓXIMO JOGADOR SEMPRE
+    session["jogador_atual"] = (j_idx + 1) % len(jogadores)
+
     return render_template(
         "feedback.html",
         acertou=acertou,
         tema=tema,
         pergunta=pergunta,
         resposta_certa=pergunta["opcoes"][correta],
-        explicacao=pergunta["explicacao"], 
+        explicacao=pergunta["explicacao"],
         jogador=jogadores[j_idx],
         cores_queijo=cores_queijo
     )
+
+@app.route("/evento")
+def evento():
+    evento = session.get("evento")
+    queijo = session.get("queijo_perdido")
+    cor = session.get("cor_queijo_perdido")
+    jogador = session["jogadores"][session["jogador_atual"]]
+
+    return render_template(
+        "feedback_evento.html",
+        evento=evento,
+        queijo=queijo,
+        cor=cor,
+        jogador=jogador
+    )
+
 
 
 # RESULTADOS
 
 @app.route("/result")
 def result():
-    return render_template("result.html", jogadores=session["jogadores"], cores_queijo=cores_queijo)
+    jogadores = session.get("jogadores", [])
+
+    # Ordenar por número de queijos (descendente)
+    jogadores_ordenados = sorted(
+        jogadores,
+        key=lambda j: len(j["queijos"]),
+        reverse=True
+    )
+
+    return render_template(
+        "podio.html",
+        jogadores=jogadores_ordenados,
+        cores_queijo=cores_queijo
+    )
+
 
 
 # RUN
